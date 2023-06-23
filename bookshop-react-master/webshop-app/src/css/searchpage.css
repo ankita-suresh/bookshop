@@ -1,26 +1,38 @@
-/* searchpage.css */
 
-/* Styles for the overall search page */
 .search-page {
     text-align: center;
   }
   
-  /* Styles for the h1 element */
+ 
   .search-page h1 {
     font-size: 24px;
     margin-bottom: 20px;
   }
+  .search-page h3{
+    font-size: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    
+    
+  }
+  .book-item{
+    margin: 0;
+    padding: 0;
+    height: 32rem;
+    box-sizing: border-box;
+  }
+  
   .search-page h4 {
     font-size: 17px;
     margin-bottom: 20px;
   }
   
-  /* Styles for the search bar container */
+
   .search-page .search-bar {
     margin-bottom: 20px;
   }
   
-  /* Styles for the search input */
+  
   .search-page .search-bar input {
     padding: 10px;
     font-size: 16px;
@@ -29,7 +41,7 @@
     margin-right: 10px;
   }
   
-  /* Styles for the search button */
+
   .search-page .search-bar button {
     padding: 10px 20px;
     font-size: 16px;
@@ -41,12 +53,12 @@
     margin-left: 20px;;
   }
   
-  /* Styles for the search results container */
+ 
   .search-page .search-results {
     margin-bottom: 20px;
   }
   
-  /* Styles for the loading spinner */
+  
   .search-page .search-results .loading {
     display: flex;
     align-items: center;
@@ -54,7 +66,7 @@
     height: 50vh;
   }
   
-  /* Styles for the books list */
+  
   .search-page .search-results ul {
     list-style-type: none;
     padding: 30px;
@@ -63,16 +75,21 @@
     justify-content: center;
   }
   
-  /* Styles for each book item */
+
   .search-page .search-results li {
     margin-bottom: 20px;
     margin-right: 20px;
     width: 300px;
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 8px;
+    position: relative;
     padding: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   }
-  
-  /* Add more styles as needed */
-  
+
+  .book-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+
+    padding: 10px;
+  }

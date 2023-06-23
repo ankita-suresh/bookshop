@@ -12,6 +12,7 @@ import ProfilePage from "../pages/ProfilePage";
 import OrdersPage from "../pages/OrdersPage";
 import ProtectedRoutes from "../pages/ProtectedRoutes";
 import SearchPage from "../pages/SearchPage";
+import ViewDetail from "../pages/ViewDetail";
 
 function BookstoreRoutes() {
     const location = useLocation();
@@ -36,6 +37,7 @@ function BookstoreRoutes() {
             </Route>
             <Route path="/books" element={<StorePage />} />
             <Route path="/books/:id" element={<DetailsPage />} />
+            <Route path="/views/:id" element={<ViewDetail />} />
             <Route path="*" element={<NotFoundPage />} />
         </Routes>
     );

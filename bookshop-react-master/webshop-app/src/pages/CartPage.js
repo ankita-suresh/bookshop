@@ -230,7 +230,7 @@ function CartPage() {
                 <Container className="mt-5 pt-5 text-center">
                     <h4>Your cart is empty</h4>
 
-                    <Link to="/books">Continue shopping</Link>
+                    <Link to="/search">Continue shopping</Link>
                 </Container>
                 <div className="cart-footer">
                     <FooterComponent />

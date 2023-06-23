@@ -20,9 +20,11 @@ function DetailsPage() {
     useEffect(() => {
         const afterLastSlash = window.location.pathname.substring(
             window.location.pathname.lastIndexOf("/") + 1
+           
         );
+        
         axios
-            .get(`${BASE_URL}/books/${afterLastSlash}`)
+            .get(`${BASE_URL}/books/${afterLastSlash.substring(1)}`)
             .then(function (response) {
                 setBook(response.data);
             });

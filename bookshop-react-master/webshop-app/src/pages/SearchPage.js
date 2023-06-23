@@ -4,15 +4,20 @@ import {    ClipLoader } from 'react-spinners';
 import FooterComponent from "../components/FooterComponent";
 import NavbarComponent from "../components/NavbarComponent";
 import "../css/searchpage.css";
+import { useNavigate } from 'react-router-dom';
+
 
 
 
 const SearchPage = () => {
+    const navigate = useNavigate();
+
     const [books, setBooks] = useState([]);
     const [searchQuery, setSearchQuery] = useState('');
     const [isLoading, setIsLoading] = useState(false);
     const [filterType, setFilterType] = useState('all');
     const [filterValue, setFilterValue] = useState('');
+    const [cartItems, setCartItems] = useState([]);
   
     const handleSearch = async () => {
       let url = '';
@@ -43,6 +48,10 @@ const SearchPage = () => {
         setIsLoading(false);
       }
     };
+    const addToCart = (book) => {
+        setCartItems([...cartItems, book]);
+      };
+    
   
     const generateRandomCoverImage = () => {
       const randomCoverID = Math.floor(Math.random() * 1000000);
@@ -57,7 +66,10 @@ const SearchPage = () => {
     const generateRandomQuantity = () => {
       return Math.floor(Math.random() * 100) + 1;
     };
-  
+    const handleClick = (book) => {
+      navigate(`/views${book.key.substring(6)}`, { state: { bookData: book } });
+    };
+    
     useEffect(() => {
       const fetchRandomBooks = async () => {
         setIsLoading(true);
@@ -134,9 +146,9 @@ const SearchPage = () => {
               <ul className="books-list">
                 {books.map((book) => (
                   <li key={book.key} className="book-item">
-                    <div className="book-item-content">
-                      <img
-                        src={
+                    <div onClick={() => handleClick(book)} className="book-item-content">
+                      <img style={{    width: "100%" , height: "15.5rem"}}
+                         src={
                           book.cover_i
                             ? `http://covers.openlibrary.org/b/id/${book.cover_i}-M.jpg`
                             : generateRandomCoverImage()
@@ -161,7 +173,17 @@ const SearchPage = () => {
                         ) : (
                           <p>Quantity: {generateRandomQuantity()}</p>
                         )}
-                        <Link to={`/books${book.key}`}>View Details</Link>
+                        {/* <Link to={`/views${book.key.substring(6)}`}>View Details</Link> */}
+                        {/* history.push('/views${book.key.substring(6)}', { prop1: { }); */}
+                        {/* <span style={{    bottom: "0.8rem",
+    position: "relative"}} className="viewdetails" onClick={() => handleClick(book)}>View Details</span> */}
+
+
+                        <div>
+                        <button  style={{    bottom: "0.8rem", left: "6rem",
+    position: "absolute"}} onClick={() => addToCart(book)}>Add to Cart</button>
+                        
+                      </div>
                       </div>
                     </div>
                   </li>
