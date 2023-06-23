@@ -70,6 +70,14 @@ function NavbarComponent(props) {
                                             Home
                                         </Button>
                                     </LinkContainer>
+                                    <LinkContainer to="/search">
+                                        <Button
+                                            variant="link"
+                                            className="nav-item"
+                                        >
+                                            Search
+                                        </Button>
+                                    </LinkContainer>
                                     <LinkContainer to="/books">
                                         <Button
                                             variant="link"

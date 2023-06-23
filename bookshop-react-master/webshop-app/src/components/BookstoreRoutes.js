@@ -11,6 +11,7 @@ import DetailsPage from "../pages/DetailsPage";
 import ProfilePage from "../pages/ProfilePage";
 import OrdersPage from "../pages/OrdersPage";
 import ProtectedRoutes from "../pages/ProtectedRoutes";
+import SearchPage from "../pages/SearchPage";
 
 function BookstoreRoutes() {
     const location = useLocation();
@@ -20,6 +21,7 @@ function BookstoreRoutes() {
             <Route path="/auth/login" element={<LoginPage />} />
             <Route path="/auth/register" element={<RegisterPage />} />
             <Route path="/cart" element={<CartPage />} />
+            <Route path="/search" element={<SearchPage />} /> 
             <Route element={<ProtectedRoutes />}>
                 {" "}
                 <Route path="/users" element={<UsersPage />} />
