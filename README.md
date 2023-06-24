@@ -22,7 +22,8 @@ A fully responsive webshop application built with ReactJS, styled using CSS for 
 
 
 ###    Home page
-![image](https://images.squarespace-cdn.com/content/v1/59442af1893fc09c8f9b8ae6/1497718545819-HOIDJKWECEQ1TGRCYSS3/042a5033205493.56ab9131be5ca.jpg)
+![image](https://github.com/ankita-suresh/bookshop/assets/85353057/a3ff24af-a9fc-45c6-b33b-e29e1ce2816d)
+
     
 ###    Read Online Page
 ![image](https://github.com/ankita-suresh/bookshop/assets/85353057/5eb26050-7a7c-4f58-9bea-086daad39c31)
