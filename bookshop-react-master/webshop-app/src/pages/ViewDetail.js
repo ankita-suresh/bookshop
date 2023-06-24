@@ -7,25 +7,6 @@ const ViewDetail = () => {
   const [book, setBook] = useState(null);
 
   useEffect(() => {
-    const fetchBookDetails = async () => {
-      if (bookKey) {
-        const url = `http://openlibrary.org/books/${bookKey}.json`;
-
-        try {
-          const response = await fetch(url);
-          const data = await response.json();
-
-          setBook(data);
-        } catch (error) {
-          console.error('Error:', error);
-        }
-      }
-    };
-
-    fetchBookDetails();
-  }, [bookKey]);
-
-  useEffect(() => {
     // Access the book data from the location state
     const bookData = location.state?.bookData;
     console.log('Book Data:', bookData);
@@ -37,6 +18,10 @@ const ViewDetail = () => {
     }
   }, [location]);
 
+  const generateGoogleBooksLink = (bookId) => {
+    return `https://books.google.com/books?vid=${bookId}&redir_esc=y`;
+  };
+  
   return (
     <div>
       <h2>Book Details</h2>
@@ -49,6 +34,17 @@ const ViewDetail = () => {
             <p>
               <a href={book.preview_url} target="_blank" rel="noopener noreferrer">
                 Preview the Story Book
+              </a>
+            </p>
+          )}
+          {book.isbn && (
+            <p>
+              <a
+                href={generateGoogleBooksLink(book.isbn[0])}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Read the Ebook
               </a>
             </p>
           )}
