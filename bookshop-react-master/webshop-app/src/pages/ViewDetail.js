@@ -18,8 +18,8 @@ const ViewDetail = () => {
     }
   }, [location]);
 
-  const generateGoogleBooksLink = (bookId) => {
-    return `https://books.google.com/books?vid=${bookId}&redir_esc=y`;
+  const generateGoogleBooksLink = (bookKey) => {
+    return `https://books.google.com/books?vid=${bookKey}&redir_esc=y`;
   };
   
   return (
