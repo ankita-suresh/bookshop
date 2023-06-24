@@ -6,6 +6,25 @@ const ViewDetail = () => {
   const location = useLocation();
   const [book, setBook] = useState(null);
 
+  const fetchBookDetails = async () => {
+    if (bookKey) {
+      const url = `https://openlibrary.org/works/${bookKey}.json`;
+
+      try {
+        const response = await fetch(url);
+        const data = await response.json();
+
+        setBook(data);
+      } catch (error) {
+        console.error('Error:', error);
+      }
+    }
+  };
+
+  useEffect(() => {
+    fetchBookDetails();
+  }, [bookKey]);
+
   useEffect(() => {
     // Access the book data from the location state
     const bookData = location.state?.bookData;
@@ -18,10 +37,6 @@ const ViewDetail = () => {
     }
   }, [location]);
 
-  const generateGoogleBooksLink = (bookKey) => {
-    return `https://books.google.com/books?vid=${bookKey}&redir_esc=y`;
-  };
-  
   return (
     <div>
       <h2>Book Details</h2>
@@ -37,10 +52,10 @@ const ViewDetail = () => {
               </a>
             </p>
           )}
-          {book.isbn && (
+          {book.key && (
             <p>
               <a
-                href={generateGoogleBooksLink(book.isbn[0])}
+                href={`https://openlibrary.org${book.key}/ebooks`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
