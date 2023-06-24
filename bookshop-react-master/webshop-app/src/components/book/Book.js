@@ -125,7 +125,7 @@ function Book({
                     </div>
                 )}
                 <div className="book-img d-flex justify-content-center align-items-center">
-                    <img src={"images/" + image} alt="Book cover" />
+                    <img src={ image} alt="Book cover" />
                 </div>
                 <div className="book-info">
                     <h4 className="book-name">{name}</h4>
@@ -137,13 +137,13 @@ function Book({
                             <span className="discounted">{price}</span>
                             <span className="price">
                                 {" "}
-                                {price - discount}
+                                {price -10}
                             </span>{" "}
-                            RON
+                            RUPEE
                         </h5>
                     ) : (
                         <h5>
-                            Price: <span className="price">{price}</span> RON
+                            Price: <span className="price">{price}</span> RUPEE
                         </h5>
                     )}
                     <div className="actionButtons">

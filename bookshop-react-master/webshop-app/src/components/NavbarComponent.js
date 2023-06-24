@@ -94,10 +94,12 @@ function NavbarComponent(props) {
                                 </Nav>
                                 <Nav>
                                     <LinkContainer to="/cart">
-                                        <Button
+                                        <Button className="carter nav-item"
+                                        
                                             variant="link"
-                                            className="nav-item"
-                                        >
+                                            
+                                            >
+                                        
                                             <BsCartFill />
                                             Cart{" "}
                                             <Badge bg="secondary">

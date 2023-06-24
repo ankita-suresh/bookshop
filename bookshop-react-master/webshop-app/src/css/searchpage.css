@@ -15,12 +15,19 @@
     
     
   }
-  .book-item{
+  .book-item {
     margin: 0;
     padding: 0;
     height: 32rem;
     box-sizing: border-box;
+    transition: transform 0.3s ease;
   }
+  
+  .book-item:hover {
+    transform: scale(1.05);
+    
+  }
+  
   
   .search-page h4 {
     font-size: 17px;
@@ -73,6 +80,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    ;
   }
   
 
@@ -92,4 +100,7 @@
     margin-bottom: 10px;
 
     padding: 10px;
+  }
+  .filter-select{
+    padding:10px;
   }
