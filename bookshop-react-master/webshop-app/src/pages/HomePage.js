@@ -30,8 +30,7 @@ function HomePage() {
                         <Col xs={1}></Col>
                         <Col md={4} sm={8} xs={11}>
                             <h3 className="text-white">
-                                Take advantage of our offers and purchase your
-                                desired book at the best prices!
+                            Step into our library and immerse yourself in a spellbinding realm of books and enchantment
                             </h3>
                             <LinkContainer to="/books">
                                 <Button

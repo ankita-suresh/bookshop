@@ -146,7 +146,7 @@ const SearchPage = () => {
                 <li key={book.key} className="book-item">
                   <div onClick={() => handleClick(book)} className="book-item-content">
                     <img
-                      style={{ width: '100%', height: '15.5rem' }}
+                      style={{ width: '100%', height: '16rem' }}
                       src={
                         book.cover_i
                           ? `http://covers.openlibrary.org/b/id/${book.cover_i}-M.jpg`
@@ -178,7 +178,7 @@ const SearchPage = () => {
                           style={{ bottom: '0.8rem', left: '6rem', position: 'absolute' }}
                           onClick={() => addToCart(book)}
                         >
-                          Add to Cart
+                          Read Online
                         </button>
                       </div>
                     </div>
