@@ -1,0 +1,51 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  
+  
+  .book-details {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .book-title {
+    font-size: 30px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  .book-details{
+    border : 0;
+  }
+  
+  
+  .cover-image {
+    max-width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    margin-top: 10px;
+  }
+  
+  .preview-link,
+  .ebook-link {
+    margin-top: 10px;
+  }
+  
+  .preview-link a,
+  .ebook-link a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  .preview-link a:hover,
+  .ebook-link a:hover {
+    text-decoration: underline;
+  }
+  

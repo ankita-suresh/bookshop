@@ -24,7 +24,7 @@ function DetailsPage() {
         );
         
         axios
-            .get(`${BASE_URL}/books/${afterLastSlash.substring(1)}`)
+            .get(`${BASE_URL}/books/${afterLastSlash}`)
             .then(function (response) {
                 setBook(response.data);
             });
