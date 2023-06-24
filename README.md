@@ -1,35 +1,51 @@
 # Bookshop
 
-Webshop application developed using ReactJS. 
-Styling was made using: CSS, React-Bootstrap, Font Awesome Icons.
+A fully responsive webshop application built with ReactJS, styled using CSS for custom design, and enhanced with React-Bootstrap for pre-built components and Font Awesome Icons for visually appealing and scalable icons
 
 ### Application has two main components:
 - REST API (webshop-api)
 - Client App (webshop-app) 
 
 ### Features of bookshop app:
-- Navbar and footer
-- Register and login forms
+- Navbar and footer components
+- Register form and login form
 - Validations
 - Administrator role for editing and adding books, delete accounts
+- User log out account
+- User credential check
 - Edit profile information
-- Breadcrumbs
+- Cart History
 - Shopping cart
 - Filters
 - Order History
+- Online Book Reading (onlinelibraryapi)
 
 
 ###    Home page
-![image](https://user-images.githubusercontent.com/93213785/221355704-635ded85-9aeb-4b76-a6f4-b70e08efaea2.png)
+![image](https://github.com/ankita-suresh/bookshop/assets/85353057/a3ff24af-a9fc-45c6-b33b-e29e1ce2816d)
+
     
-###    Shop page
-![image](https://user-images.githubusercontent.com/93213785/221355750-18736052-04e9-4876-8acc-bbe56af58668.png)
+###    Read Online Page
+![image](https://github.com/ankita-suresh/bookshop/assets/85353057/5eb26050-7a7c-4f58-9bea-086daad39c31)
 
-###    Cart page
-![image](https://user-images.githubusercontent.com/93213785/221355815-775a3ffb-0f26-4ee6-8329-915b12f69653.png)
+###    Cart Page
+![image](https://github.com/ankita-suresh/bookshop/assets/85353057/318a5595-4230-405f-ae79-ba19d3de8d36)
 
-###    Not Found Page
-![image](https://user-images.githubusercontent.com/93213785/221355894-74d50441-d355-4bce-82c8-b6f0145edc92.png)
+
+###   Login Page
+![image](https://github.com/ankita-suresh/bookshop/assets/85353057/b834e02b-fdd8-4f22-8c21-84cee4fcd9bc)
+
+###   Preview Book
+![image](https://github.com/ankita-suresh/bookshop/assets/85353057/d7ec0ced-3ed4-433f-8954-c5c8be1e479e)
+
+###   Online Reading Page
+![image](https://github.com/ankita-suresh/bookshop/assets/85353057/41907c7a-beea-4571-8d14-93821528e90c)
+
+
+
+
+
+
 
 # Install and run instructions
 - `npm install -g nodemon`. Nodemon is a tool that helps Node.js based application development by automatically restarting the node application when file changes are detected.
