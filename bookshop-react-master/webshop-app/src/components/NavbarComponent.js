@@ -70,7 +70,7 @@ function NavbarComponent(props) {
                                             variant="link"
                                             className="nav-item"
                                         >
-                                            Search
+                                            Read Online
                                         </Button>
                                     </LinkContainer>
                                     <LinkContainer to="/books">
@@ -78,7 +78,7 @@ function NavbarComponent(props) {
                                             variant="link"
                                             className="nav-item"
                                         >
-                                            Books
+                                            Buy
                                         </Button>
                                     </LinkContainer>
                                     {admin && (
