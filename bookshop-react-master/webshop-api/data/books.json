@@ -1,483 +1,263 @@
 [
     {
-        
         "name": "Annual Report of the State Engineer and Surveyor for the Year[s] ...",
         "author": "New York (State ), State Engineer and Surveyor",
         "availability_date": "1886",
         "image": "https://covers.openlibrary.org/b/id/5997437-L.jpg",
-        
         "price": 114,
         "quantity": 1,
-        
-        "publisher": "",
         "discount": "",
         "id": "OL20525072M",
         "language": "",
-        "category": "",
-        "contributor": "",
+        "category": "Children's Books",
         "rating": "3",
-        "publishing_place": ""
-    },
-    {
-        
+        "publishing_house": "Dorling"
+      },
+      {
         "name": "A geography of the U.S.S.R",
         "author": "J. P. Cole",
         "availability_date": "1971",
         "image": "https://covers.openlibrary.org/b/id/4518287-L.jpg",
-       
         "price": 36,
         "quantity": 1,
-        
-        "publisher": [
-            "Butterworth",
-            "Penguin Books",
-            "Penguin Bks",
-            "Butterworths",
-            "Rowman and Littlefield",
-            "Penguin"
-        ],
         "discount": "9780408497510",
         "id": "OL5846990M",
         "language": "eng",
-        "category": "1955-, Economic conditions, Economic zoning, Russia, Géographie, Conditions économiques, Politique économique, URSS. Economie, URSS. Géographie, Conditions economiques, Regionalisation economique, Landeskunde, Economic history, Régionalisation économique",
+        "category": "Science Fiction",
         "contributor": "German, Frank Clifford, jt. author, German, Frank Clifford, joint author., German, F. C.",
         "rating": "3",
-        "publishing_place": "Totowa, N.J"
-    },
-    {
-        
+        "publishing_house": "Cornerstone"
+      },
+      {
         "name": "Ulysses S. Grant",
         "author": "Hamlin Garland",
         "availability_date": "January 1999",
         "image": "https://covers.openlibrary.org/b/id/5705208-L.jpg",
-       
         "price": 30,
         "quantity": 1,
-        
-        "publisher": [
-            "Doubleday & McClure Co.",
-            "Macmillan",
-            "Doubleday & McClure co.",
-            "Kessinger Publishing, LLC",
-            "Macmillan Company",
-            "Reprint Services Corp",
-            "Arkose Press"
-        ],
         "discount": "9780548132531",
         "id": "OL15994298M",
         "language": "eng",
-        "category": "",
-        "contributor": "",
+        "category": "Fiction",
         "rating": "3",
-        "publishing_place": "New York"
-    },
-    {
-        
-        "name": "Aunt Jane&apos;s Nieces and Uncle John",
+        "publishing_house": "Vintage"
+      },
+      {
+        "name": "Aunt Jane's Nieces and Uncle John",
         "author": "L. Frank Baum",
         "availability_date": "January 30, 2006",
         "image": "https://covers.openlibrary.org/b/id/2891078-L.jpg",
-       
         "price": 51,
         "quantity": 1,
-        
-        "publisher": [
-            "BiblioBazaar",
-            "1st World Library",
-            "IndyPublish",
-            "The Reilly & Britton co.",
-            "Hard Press",
-            "Pinnacle Press",
-            "IndyPublish.com",
-            "Independently Published"
-        ],
         "discount": "1434621421",
         "id": "OL13441400M",
         "language": "eng",
-        "category": "Fiction, family life, general",
-        "contributor": "",
+        "category": "Philosophy",
         "rating": "3",
-        "publishing_place": "Chicago"
-    },
-    {
-                "name": "IRAs, 401(k)s & other retirement plans",
+        "publishing_house": "Orion"
+      },
+      {
+        "name": "IRAs, 401(k)s & other retirement plans",
         "author": "Twila Slesnick, Twila Slesnick PhD, John C. Suttle CPA, John C. Suttle",
         "availability_date": "2013",
         "image": "https://covers.openlibrary.org/b/id/10534867-L.jpg",
-       
         "price": 108,
         "quantity": 1,
-        
-        "publisher": [
-            "NOLO",
-            "Nolo",
-            "Nolo Press"
-        ],
         "discount": "1413319033",
         "id": "OL346841M",
         "language": "eng",
-        "category": "Law and legislation, Deferred compensation, Finance, Reference, Taxation, 401(k) plans, Individual retirement accounts, Nonfiction, Law, Popular works, Pension trusts, Business & Economics, Legal Reference / Law Profession, Business/Economics, Practical Guides, Personal Finance - Retirement Planning, United States, Personal Finance - 401k, Personal Finance - IRA, Personal Finance - General, Personal Finance, Retirement Plans, Consumer Finance, Retirement, planning, Pension trusts, law and legislation, united states, Law, united states, Finance, personal",
+        "category": "Business and Economics",
         "contributor": "DelPo, Amy, 1967-, Suttle, John C., Suttle, John C., author",
         "rating": "3",
-        "publishing_place": "Berkeley, Calif"
-    },
-    {
-                "name": "U.S. trade policy",
+        "publishing_house": "Bloomsbury"
+      },
+      {
+        "name": "U.S. trade policy",
         "author": "United States. Congress. House. Committee on Ways and Means. Subcommittee on Trade.",
         "availability_date": "1997",
         "image": "https://covers.openlibrary.org/b/id/4595526-L.jpg",
-       
         "price": 100,
         "quantity": 1,
-        
-        "publisher": [
-            "For sale by the U.S. G.P.O., Supt. of Docs., Congressional Sales Office",
-            "U.S. G.P.O."
-        ],
         "discount": "0160554926",
         "id": "OL22288252M",
         "language": "eng",
-        "category": "Commercial policy, Foreign trade promotion, Commerce",
-        "contributor": "",
+        "category": "Culture",
         "rating": "3",
-        "publishing_place": "Washington"
-    },
-    {
-                "name": "H.M.S. Pinafore",
+        "publishing_house": "Penguin"
+      },
+      {
+        "name": "H.M.S. Pinafore",
         "author": "W. S. Gilbert, Sir Arthur Sullivan",
         "availability_date": "1900",
         "image": "https://covers.openlibrary.org/b/id/5618675-L.jpg",
-       
         "price": 49,
         "quantity": 1,
-        
-        "publisher": [
-            "O. Ditson",
-            "Oliver Ditson Co.",
-            "G. Schirmer",
-            "O. Dittson Co.",
-            "Chappell",
-            "A. S. Seer, Printer",
-            "Ledger Job Print",
-            "Dover Publications",
-            "Louis Rosenthal",
-            "D.J. Gallagher"
-        ],
         "discount": "9780486411149",
         "id": "OL17643777M",
         "language": "eng",
-        "category": "Librettos, Operas, Operas, librettos",
+        "category": "Personal Development",
         "contributor": "Gilbert, w. S. 1836-1911., Gilbert, W. S. 1836-1911., Moss, Alfred Charles., Gilbert, William Schwenck, 1836-1911., Gilbert, W. S. 1836-1911, Stewart, George W. (association), Moss, Alfred Charles, Treharne, Bryceson, 1879-1948.",
         "rating": "3",
-        "publishing_place": "Mineola, New York"
-    },
-    {
-        
+        "publishing_house": "Dorling"
+      },
+      {
         "name": "The U.S. Army Air Forces in World War II",
         "author": "A. Timothy Warnock",
         "availability_date": "1993",
         "image": "https://covers.openlibrary.org/b/id/8372554-L.jpg",
-       
         "price": 58,
         "quantity": 1,
-        
-        "publisher": [
-            "[Supt. of Docs., U.S. G.P.O., distributor]",
-            "Air Force History and Museums Program",
-            "Center for Air Force History"
-        ],
         "discount": "9780160613852",
         "id": "OL18054620M",
         "language": "eng",
-        "category": "American Aerial operations, Campaigns, German Naval operations, History, Naval operations, Submarine, Submarine boat combat, Submarine combat, Submarines (Ships), United States, United States. Army Air Forces, World War, 1939-1945",
-        "contributor": "Air Force History and Museums Program (U.S.), Center for Air Force History (U.S.), Warnock, A. Timothy., Warnock, A. Timothy",
+        "category": "Culinary",
         "rating": "3",
-        "publishing_place": "[Washington, D.C.?]"
+        "publishing_house": "Orion"
     },
     {
-        
         "name": "Collectible glassware from the 40's, 50's, 60's--",
         "author": "Gene Florence, Cathy Florence",
         "availability_date": "1994",
         "image": "https://covers.openlibrary.org/b/id/10677900-L.jpg",
-       
-        "price": 78,
+        "price": 780,
         "quantity": 1,
-        
-        "publisher": [
-            "Collector books",
-            "Collector Books"
-        ],
         "discount": "9781574322361",
         "id": "OL8228526M",
         "language": "eng",
-        "category": "Glassware, Catalogs, Collectors and collecting, History, Glass & Glassware, Antiques, Glass Arts And Crafts, United States, Antiques & Collectibles, Antiques / Collectibles, Antiques/Collectibles, Reference - Price Guides, 20th century",
+        "category": "Psychology",
         "contributor": "Florence, Cathy Gaines.",
         "rating": "3",
-        "publishing_place": "Paducah, Ky"
+        "publishing_house": "Penguin"
     },
     {
-        
         "name": "P.S. I Still Love You",
         "author": "Jenny Han",
         "availability_date": "2020",
         "image": "https://covers.openlibrary.org/b/id/7434792-L.jpg",
-       
         "price": 30,
         "quantity": 1,
-        
-        "publisher": [
-            "Simon & schuster books for young readers",
-            "Hanser",
-            "Simon & Schuster, Incorporated",
-            "Wydawnictwo Kobiece",
-            "Simon & Schuster Books For Young Readers",
-            "Destino Infantil & Juvenil",
-            "Pegasus",
-            "Simon & Schuster BFYR",
-            "Simon & Schuster Books for Young Readers",
-            "Simon and Schuster books for young readers",
-            "Scholastic",
-            "Destino",
-            "michai"
-        ],
         "discount": "9789507323577",
         "id": "OL27507371M",
         "language": "eng",
         "category": "Social Issues, Young adult fiction, Girls & Women, Fiction, Triangles (Interpersonal relations), Love & Romance, Dating, Friendship, Love, juvenile fiction, Romance, Teenagers, Friendship in adolescence, Infatuation, Dating (Social customs), Sisters, Love stories, JUVENILE FICTION / Love & Romance, JUVENILE FICTION / Girls & Women, JUVENILE FICTION / Social Issues / Dating & Sex, Korean American teenagers, Dating & Sex, nyt:young-adult=2015-06-14, New York Times bestseller, Children's fiction, Love, fiction, Sisters, fiction, Dating (social customs), fiction, Friendship, fiction, Romance fiction, Interpersonal relations",
-        "contributor": "",
         "rating": "3",
-        "publishing_place": "New York, New York"
+        "publishing_house": "Vintage"
     },
     {
-        
         "name": "The achievement of T.S. Eliot",
         "author": "F. O. Matthiessen",
         "availability_date": "1935",
         "image": "https://covers.openlibrary.org/b/id/9644687-L.jpg",
-       
         "price": 46,
         "quantity": 1,
-        
-        "publisher": [
-            "H. Milford",
-            "Oxford University Press",
-            "Houghton Mifflin company",
-            "Oxford university press, H. Milford"
-        ],
         "discount": "",
         "id": "OL15491867M",
         "language": "eng",
         "category": "Criticism and interpretation, Poetry, Literatura inglesa (historia e critica)",
         "contributor": "Barber, C. L., Barber, Charles Laurence.",
         "rating": "3",
-        "publishing_place": "and New York"
+        "publishing_house": "Bloomsbury"
     },
     {
-        
         "name": "J. S. Le Fanu's Ghostly Tales",
         "author": "Joseph Sheridan Le Fanu",
         "availability_date": "June 30, 2004",
         "image": "https://covers.openlibrary.org/b/id/2781830-L.jpg",
-       
         "price": 52,
         "quantity": 1,
-        
-        "publisher": [
-            "Kessinger Publishing",
-            "IndyPublish.com",
-            "Paperbackshop.Co.UK Ltd - Echo Library"
-        ],
         "discount": "1414297068",
         "id": "OL11729283M",
         "language": "eng",
         "category": "",
         "contributor": "",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": "Dorling"
     },
     {
-        
         "name": "Rite of funerals (U.S.)",
         "author": "Catholic Church",
         "availability_date": "1989",
         "image": "https://covers.openlibrary.org/b/id/1543633-L.jpg",
-       
         "price": 38,
         "quantity": 1,
-        
-        "publisher": [
-            "Liturgy Training Publications",
-            "Liturgical Press",
-            "Order of St. Benedict, Inc.",
-            "International Commission on English in the Liturgy",
-            "[Publications Service,] Canadian Conference of Catholic Bishops",
-            "Canadian Conference of Catholic Bishops",
-            "Catholic Book Pub.",
-            "G. Chapman",
-            "National Conference of Catholic Bishops",
-            "United States Catholic Conference"
-        ],
         "discount": "0814625142",
         "id": "OL11269323M",
         "language": "eng",
         "category": "Catholic Church, Texts, Liturgy, Funeral service, Funeral rites and ceremonies, Rituals, English, Cremation, Ritual, Rites and ceremonies, Christian life, Catholic church, liturgy",
-        "contributor": "Catholic Church. International Commission on English in the Liturgy., International Committee on English in the Liturgy., Catholic Church. Bishops' Conference of England and Wales. Liturgy Office., Catholic Church. National Conference of Catholic Bishops. Bishops' Committee on the Liturgy., Catholic Church., Catholic Church. Canadian Conference of Catholic Bishops. National Liturgical Office., Catholic Church. National Conference of Catholic Bishops.",
         "rating": "3",
-        "publishing_place": "Washington, D.C. (1275 K St., N.W., Suite 1202, Washington, D.C. 20005-4097)"
+        "publishing_house": "Cornerstone"
     },
     {
-                "name": "S is for space",
+        "name": "S is for space",
         "author": "Ray Bradbury",
         "availability_date": "Jun 15, 1977",
         "image": "https://covers.openlibrary.org/b/id/6923738-L.jpg",
-       
         "price": 26,
         "quantity": 1,
-        
-        "publisher": [
-            "Doubleday",
-            "Bantam",
-            "Bantam Books, New York",
-            "Bantam Books",
-            "HarperCollins Publishers",
-            "Hart-Davis MacGibbon",
-            "Hart-Davis",
-            "Del Rey",
-            "Granada",
-            "PS Publishing"
-        ],
         "discount": "9781904619802",
         "id": "OL5978635M",
         "language": "eng",
-        "category": "American Science fiction, Science fiction, Short stories",
+        "category": "Children's Books",
         "contributor": "",
         "rating": "3",
-        "publishing_place": "St. Albans"
+        "publishing_house": "Orion"
     },
     {
-        
         "name": "T.S. Eliot",
         "author": "Leonard Unger",
         "availability_date": "1961",
         "image": "https://covers.openlibrary.org/b/id/7149535-L.jpg",
-       
         "price": 23,
         "quantity": 1,
-        
-        "publisher": [
-            "Minnesota University Press",
-            "OxfordUniversity Press",
-            "Rinehart & Company",
-            "University of Minnesota",
-            "Russell & Russell",
-            "University of Minnesota Press",
-            "Oxford University Press"
-        ],
         "discount": "",
         "id": "OL21494537M",
         "language": "eng",
         "category": "American Poets, Biography, Criticism and interpretation, Eliot, T. S. (Thomas Stearns), 1888-1965, Écrivains anglais",
-        "contributor": "Eliot, T. S.",
         "rating": "3",
-        "publishing_place": "London"
+        "publishing_house": "Dorling"
     },
     {
-        
-        "name": "Aunt Jane\\'s Nieces in the Red Cross",
+        "name": "Aunt Jane's Nieces in the Red Cross",
         "author": "L. Frank Baum",
         "availability_date": "May 24, 2017",
         "image": "https://covers.openlibrary.org/b/id/1814214-L.jpg",
-       
         "price": 49,
         "quantity": 1,
-        
-        "publisher": [
-            "Westphalia Press",
-            "BiblioBazaar",
-            "Wildside Press",
-            "1st World Library",
-            "Blurb",
-            "IndyPublish",
-            "The Reilly & Britton co.",
-            "Hard Press",
-            "Pinnacle Press",
-            "IndyPublish.com",
-            "Independently Published"
-        ],
         "discount": "1698018916",
         "id": "OL6582949M",
         "language": "eng",
-        "category": "Classic Literature, Fiction, Nurses, fiction, World war, 1914-1918, fiction, Children's fiction",
-        "contributor": "",
+        "category": "fiction",
         "rating": "3",
-        "publishing_place": "Chicago"
+        "publishing_house": "Vintage"
     },
     {
-        
         "name": "The Loss of the S.S. Titanic",
         "author": "Lawrence Beesley",
         "availability_date": "April 14, 2000",
         "image": "https://covers.openlibrary.org/b/id/1814268-L.jpg",
-       
         "price": 44,
         "quantity": 1,
-        
-        "publisher": [
-            "BiblioBazaar",
-            "IndyPublish.com",
-            "Red and Black Publishers",
-            "Houghton Mifflin Company",
-            "Amereon Limited",
-            "7 C's Press",
-            "eBooksLib",
-            "Dodo Press",
-            "1st World Library",
-            "Tales End Press",
-            "Kessinger Publishing",
-            "Mariner Books"
-        ],
         "discount": "1412158354",
         "id": "OL14972991M",
         "language": "eng",
-        "category": "Titanic (Steamship), Shipwrecks, History, Nonfiction, Titanic survivor, Titanic (steamship), Scheepsrampen, Titanic (schip), Titanic (Ship)",
-        "contributor": "",
+        "category": "Children's Books",
         "rating": "3",
-        "publishing_place": "St. Petersburg, Fla"
+        "publishing_house": "Orion"
     },
     {
-        
         "name": "Le roi s'amuse",
         "author": "Victor Hugo",
         "availability_date": "1832",
         "image": "https://covers.openlibrary.org/b/id/5953182-L.jpg",
-       
-        "price": 25,
+        "price": 255,
         "quantity": 1,
-        
-        "publisher": [
-            "Martel",
-            "E. Michaud",
-            "J. Hetzel & cie.",
-            "E. Renduel",
-            "Nelson",
-            "Hetzel",
-            "Printed for private circulation by Steward and Murray",
-            "Maison Quantin",
-            "J. Hetzel cie.",
-            "Impr. de J. Rodríguez",
-            "J. Hetzel",
-            "Impr. de los Hijos de C. Piñuela",
-            "Sine nomine",
-            "Meline, Cans et cie."
-        ],
         "discount": "",
         "id": "OL13975726M",
         "language": "fre",
-        "category": "Drama, Relations with women",
+        "category": "culture",
         "contributor": "Hugo, Victor, 1802-1885., John Davis Batchelder Collection (Library of Congress), Vallejo, José Mariano, d. 1911., Gómez Erruz, Francisco., Vega, Ventura de la, 1807-1865., Slous, Frederick L.",
         "rating": "3",
-        "publishing_place": "Bruxelles"
+        "publishing_house": "Bloomsbury"
     },
     {
                 "name": "Winston S. Churchill",
@@ -504,7 +284,7 @@
         "category": "Politics and government, Prime ministers, Biography, Weltkrieg, Quelle, Biografie, Biographies, Premiers ministres, Politique et gouvernement, Außenpolitik, Churchill, winston, 1874-1965, Statesmen, Statesmen, biography, Statesmen, great britain",
         "contributor": "Churchill, Randolph S. 1911-1968., Gilbert, Martin, 1936-",
         "rating": "3",
-        "publishing_place": "Boston"
+        "publishing_house": "Boston"
     },
     {
                "name": "Scenes from a Courtesan\\'s Life",
@@ -527,10 +307,10 @@
         "discount": "1419146300",
         "id": "OL14684319M",
         "language": "eng",
-        "category": "",
+        "category": "Children's Books",
         "contributor": "Saintsbury, George, 1845-1933, James Waring (Translator)",
         "rating": "3",
-        "publishing_place": "Philadelphia"
+        "publishing_house": "Philadelphia"
     },
     {
                "name": "The adventures of Captain Bonneville, U.S.A. in the Rocky Mountains and the Far West",
@@ -559,7 +339,7 @@
         "category": "discount and travel, discounts et voyages, History, Diaries, Fur trade, Explorers, Histoire, Travel, Bonneville, benjamin louis eulalie de, 1796-1878, Frontier and pioneer life, west (u.s.)",
         "contributor": "Irving, Theodore, 1809-1880, Bonneville, Benjamin Louis Eulalie de, 1796-1878., Irving, Theodore, 1809-1880., Todd, Edgeley W.",
         "rating": "3",
-        "publishing_place": "London"
+        "publishing_house": "London"
     },
     {
         
@@ -589,7 +369,7 @@
         "category": "Fiction, Fiction in English, Guerre mondiale, 1939-1945, Historical Fiction, Romans, Thriller, World War, 1939-1945, Fiction, general",
         "contributor": "",
         "rating": "3",
-        "publishing_place": "Garden City, N.Y"
+        "publishing_house": "Garden City, N.Y"
     },
     {
         
@@ -607,10 +387,10 @@
         "discount": "085950171X",
         "id": "OL11655814M",
         "language": "",
-        "category": "Mathematics, Examinations, questions, Study and teaching (Secondary)",
+        "category": "Children's Books",
         "contributor": "",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": ""
     },
     {
         
@@ -631,7 +411,7 @@
         "category": "",
         "contributor": "U.K. Carmona (Translator), Liam Davenport (Editor)",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": ""
     },
     {
         
@@ -668,7 +448,7 @@
         "category": "Fiction, Jules Maigret (Fictitious character), Police, Kriminalfall, Maigret, jules (fictitious character), fiction, Fiction, mystery & detective, police procedural, Fiction, crime, Paris (france), fiction",
         "contributor": "Portocarrero, Celina, Nickel, Renate Übersetzer, Simenon, Georges 1903-1989, Robert Brain (Translator), Simenon, Georges, 1903-, Michael Prichard (Narrator)",
         "rating": "3",
-        "publishing_place": "Paris"
+        "publishing_house": "Paris"
     },
     {
                "name": "Vie de S. François d'Assise.",
@@ -692,7 +472,7 @@
         "category": "Christian saints, Biography",
         "contributor": "Houghton, Louise Seymour, 1838-1920, tr, Houghton, Louise Seymour, Mrs., 1838-1920, tr., Houghton, Louise Seymour, 1838-1920., Houghton, Louise Seymour, 1838-1920, Houghton, Louise Seymour, 1838-1920, tr.",
         "rating": "3",
-        "publishing_place": "London"
+        "publishing_house": "London"
     },
     {
         
@@ -701,7 +481,7 @@
         "availability_date": "1969",
         "image": "https://covers.openlibrary.org/b/id/4616645-L.jpg",
        
-        "price": 41,
+        "price": 141,
         "quantity": 1,
         
         "publisher": [
@@ -714,10 +494,10 @@
         "discount": "9780395075296",
         "id": "OL5982825M",
         "language": "eng",
-        "category": "Politics and government, Prime ministers, Conservative Party (Great Britain), Biography, Churchill, winston, 1874-1965, World war, 1939-1945",
+        "category": "Children's Books",
         "contributor": "Gilbert, Martin, 1936-",
         "rating": "3",
-        "publishing_place": "Boston"
+        "publishing_house": "Boston"
     },
     {
         
@@ -739,7 +519,7 @@
         "category": "Cost accounting, Problems, exercises",
         "contributor": "",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": ""
     },
     {
         
@@ -770,10 +550,10 @@
         "discount": "0156232057",
         "id": "OL17155654M",
         "language": "eng",
-        "category": "Anglicans, Authors, English, Biography, Christian biography, Church of England, English Authors, Lewis, C. S. (Clive Staples), 1898-1963 --, Christian biography -- England, Church of England -- Biography, Authors, English -- 20th century -- Biography, Lewis, c. s. (clive staples), 1898-1963, Authors, english",
+        "category": "Children's Books",
         "contributor": "Hooper, Walter, joint author., Lewis, C. S., Hooper, W., Hooper, Walter, Lewis, C. S. 1898-1963., Hooper, Walter.",
         "rating": "3",
-        "publishing_place": "New York"
+        "publishing_house": "New York"
     },
     {
                 "name": "U.S.-Mexico trade",
@@ -796,7 +576,7 @@
         "category": "Foreign trade regulation, Commerce, Offshore assembly industry, Free ports and zones, U.S. Customs Service, Infrastructure (Economics), Environmental impact analysis, Employees, Boundaries, Traffic flow, Free trade, Environmental law, Safety measures, Export processing zones, Furniture, Industries, Management, Environmental protection, Environmental aspects of Offshore assembly industry, Offshore assembly program, Environmental aspects of American corporations, Evaluation, Wages, American Corporations, Employee fringe benefits, Environmental policy, Facilities, Automobile supplies industry, Legal status, laws",
         "contributor": "United States. General Accounting Office. National Security and International Affairs Division., United States. Congress. Senate. Committee on Commerce, Science, and Transportation., United States. Congress. Senate. Committee on Finance., United States. Congress. House. Committee on Energy and Commerce.",
         "rating": "3",
-        "publishing_place": "Washington, D.C"
+        "publishing_house": "Washington, D.C"
     },
     {
         
@@ -829,37 +609,33 @@
         "category": "Juvenile fiction, Juvenile literature, discount and travel",
         "contributor": "Edmonds, Charles, b. ca. 1823., Bobbett & Edmonds., Curtis, George A., 1811-1883, stereotyper, T. Harrington Carter & Co, Doepler, Carl Emil, 1824-1905., Mussey, Benjamin B., d. 1857, publisher, Bobbett, Albert, ca. 1824-1888 or 9.",
         "rating": "3",
-        "publishing_place": "Boston"
+        "publishing_house": "Boston"
     },
     {
-                "name": "Lippincott\\'s Magazine of Popular Literature and Science",
+        "name": "Lippincott's Magazine of Popular Literature and Science",
         "author": "Various",
         "availability_date": "January 15, 2007",
         "image": "https://covers.openlibrary.org/b/id/2841311-L.jpg",
-       
-        "price": 63,
+        "price": 630,
         "quantity": 1,
-        
         "publisher": [
             "BiblioBazaar"
         ],
         "discount": "9781426481499",
         "id": "OL11880242M",
         "language": "eng",
-        "category": "",
+        "category": "Children's Books",
         "contributor": "",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": ""
     },
     {
-               "name": "The wonderful garden or the three C.'s",
+        "name": "The wonderful garden or the three C.'s",
         "author": "Edith Nesbit",
         "availability_date": "January 2000",
         "image": "https://covers.openlibrary.org/b/id/12074915-L.jpg",
-       
         "price": 50,
         "quantity": 1,
-        
         "publisher": [
             "Macmillan and Co.",
             "Dressler",
@@ -876,21 +652,18 @@
         "discount": "0510160719",
         "id": "OL18869787M",
         "language": "eng",
-        "category": "",
+        "category": "Psychology",
         "contributor": "Flo Gibson (Narrator), Millar, H R., Millar, H. R., ill., Millar, H. R.",
         "rating": "3",
-        "publishing_place": "New York"
+        "publishing_house": "New York"
     },
     {
-        
         "name": "Studies in Canadian export opportunities in the U.S. market",
         "author": "Canada. Dept. of External Affairs.",
         "availability_date": "1989",
         "image": "https://covers.openlibrary.org/b/id/5491606-L.jpg",
-       
         "price": 93,
         "quantity": 1,
-        
         "publisher": [
             "Dept. of External Affairs = Ministère des affaires extérieures",
             "Dept. of External Affairs.",
@@ -902,20 +675,18 @@
         "discount": "9780662561040",
         "id": "OL21591179M",
         "language": "eng",
-        "category": "Agricultural machinery, Automobile supplies industry, Baked products industry, Canada, Commerce, Compresseurs, Compressor industry, Exportations, Exports, Food industry and trade, Foreign trade promotion, Free trade, Heating equipment industry, Importations, Imports, Industrie, Jewelry trade, Machines à papier, Materials and instruments, Men's clothing industry, Metal-working machinery industry, Packaging machinery industry, Papermaking machinery industry, Parts, Pen industry, Pencil industry, Plastics industry and trade, Statistics, Statistiques, Taps and dies, Telecommunication equipment industry, Telecommunications equipment industry, United States, Valve industry, Writing, États-Unis",
+        "category": "Science Fiction",
         "contributor": "Canada. Ministère des affaires extérieures., Groupe Conseil Peat Marwick, Canada. Ministère des affaires extérieures, Peat Marwich Consulting Group., Groupe Conseil Peat Marwick., Peat Marwick Consulting Group.",
         "rating": "3",
-        "publishing_place": "Ottawa, Ont"
+        "publishing_house": "Ottawa, Ont"
     },
     {
-                "name": "The crack-up, with other uncollected pieces, note-books and unpublished letters, together with letters to Fitzgerald from Gertrude Stein, Edith Wharton, T.S. Eliot, Thomas Wolfe and John Dos Passos, and essays and poems by Paul Rosenfeld [and others]  Edited by Edmund Wilson",
+        "name": "The crack-up, with other uncollected pieces, note-books and unpublished letters, together with letters to Fitzgerald from Gertrude Stein, Edith Wharton, T.S. Eliot, Thomas Wolfe and John Dos Passos, and essays and poems by Paul Rosenfeld [and others]  Edited by Edmund Wilson",
         "author": "F. Scott Fitzgerald",
         "availability_date": "1993",
         "image": "https://covers.openlibrary.org/b/id/12595612-L.jpg",
-       
         "price": 294,
         "quantity": 1,
-        
         "publisher": [
             "James Laughlin",
             "New Directions",
@@ -932,84 +703,72 @@
         "discount": "9780140082098",
         "id": "OL15595870M",
         "language": "eng",
-        "category": "Correspondence, Notebooks, sketchbooks, American Authors, Fitzgerald, f. scott (francis scott), 1896-1940, Authors, correspondence, American fiction",
+        "category": "Fiction",
         "contributor": "Wilson, Edmund, 1895-1972 ed., Dos Passos, John, 1896-1970., Eliot, T. S. 1888-1965., Wolfe, Thomas, 1900-1938., Greene, Graham, 1904-1991 former owner., Stein, Gertrude, 1874-1946., Dos Passos, John., Wharton, Edith, 1862-1937., Wescott, Glenway., Wilson, Edmund, 1895-1972, ed., Bishop, John Peale, 1892-1944., Wescott, Glenway, 1901-, Rosenfeld, Paul., Bishop, John Peale., Wilson, Edmund, 1895-1972., Rosenfeld, Paul, 1890-1946., Wilson, Edmund, 1895-1972",
         "rating": "3",
-        "publishing_place": "Harmondsworth"
+        "publishing_house": "Harmondsworth"
     },
     {
-        
         "name": "Report Of The Chief Of Engineers U.s. Army",
         "author": "United States. Army. Corps of Engineers",
         "availability_date": "Sep 25, 2015",
         "image": "https://covers.openlibrary.org/b/id/11098991-L.jpg",
-       
         "price": 81,
         "quantity": 1,
-        
         "publisher": [
             "Arkose Press"
         ],
         "discount": "9781345218480",
         "id": "OL32470204M",
         "language": "",
-        "category": "",
+        "category": "Business and Economics",
         "contributor": "",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": ""
     },
     {
-        
         "name": "21st Century U.S. Military",
         "author": "Department of Defense",
         "availability_date": "February 2005",
         "image": "https://covers.openlibrary.org/b/id/2814699-L.jpg",
-       
         "price": 47,
         "quantity": 1,
-        
         "publisher": [
             "Progressive Management"
         ],
         "discount": "9781422005712",
         "id": "OL11830248M",
         "language": "eng",
-        "category": "",
+        "category": "Philosophy",
         "contributor": "",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": ""
     },
     {
-        
         "name": "Iran-U.S. Claims Tribunal Reports",
         "author": "J. C. Adlam",
         "availability_date": "January 1, 1994",
         "image": "https://covers.openlibrary.org/b/id/5146878-L.jpg",
-       
         "price": 44,
         "quantity": 1,
-        
         "publisher": [
             "Cambridge University Press"
         ],
         "discount": "0521464382",
         "id": "OL11580032M",
         "language": "eng",
-        "category": "Aeronautics, law and legislation, United states, claims, Iran, foreign relations, United states, foreign relations, iran",
+        "category": "Culture",
         "contributor": "",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": ""
     },
     {
-        
         "name": "A reader's guide to T.S. Eliot",
         "author": "Williamson, George",
         "availability_date": "1963",
         "image": "https://covers.openlibrary.org/b/id/3790427-L.jpg",
-       
         "price": 48,
         "quantity": 1,
-        
         "publisher": [
             "Farrar, Straus & Giroux",
             "Noonday Press",
@@ -1022,11 +781,12 @@
         "discount": "9780374986353",
         "id": "OL22082438M",
         "language": "eng",
-        "category": "Criticism and interpretation, Examinations, Handbooks, manuals, Study guides, Eliot, Thomas Stearns, 1888-1965, Eliot, t. s. (thomas stearns), 1888-1965",
+        "category": "Personal Development",
         "contributor": "",
         "rating": "3",
-        "publishing_place": "New York, NY"
+        "publishing_house": "New York, NY"
     },
+
     {
         
         "name": "Travelmaster (Travelmaster S.)",
@@ -1046,7 +806,7 @@
         "category": "",
         "contributor": "",
         "rating": "3",
-        "publishing_place": ""
+        "publishing_house": ""
     },
     {
                 "name": "Ralph S. Mouse",
@@ -1054,7 +814,7 @@
         "availability_date": "1983-10",
         "image": "https://covers.openlibrary.org/b/id/10792265-L.jpg",
        
-        "price": 28,
+        "price": 280,
         "quantity": 1,
         
         "publisher": [
@@ -1086,7 +846,7 @@
         "category": "fiction, juvenile works, juvenile fiction, mice, Juvenile audience, sports cars, decisions, Children's fiction, Mice, fiction, Ralph S. Mouse (Fictitious character), Large type books, Motorcycling, Juvenile literature, JUVENILE FICTION / Action & Adventure, JUVENILE FICTION / Animals / Mice, Hamsters, Guinea Pigs, JUVENILE FICTION / Humorous Stories",
         "contributor": "B.d. Wong (Narrator), Zelinsky, Paul O., Dockray, Tracy., Tracy Dockray (Illustrator), Paul O. Zelinsky (Illustrator), Zelinsky, Paul O., ill.",
         "rating": "3",
-        "publishing_place": "London"
+        "publishing_house": "London"
     },
     {
                "name": "Laws, etc. (U.S. code annotated",
@@ -1108,7 +868,7 @@
         "category": "Income tax, Law, Law and legislation, Taxation, Recht, Finance, Money, United States",
         "contributor": "West Group., Edward Thompson Company., West Publishing Company, United States., West Publishing Company.",
         "rating": "3",
-        "publishing_place": "St. Paul, Minn"
+        "publishing_house": "St. Paul, Minn"
     },
     {
         
@@ -1144,468 +904,227 @@
         "category": "Biography, Composers, Criticism and interpretation, Music appreciation, Musical analysis",
         "contributor": "Otto Klemperer archive (Library of Congress), Newman, Ernest., Gillot, Hubert, 1875-,, Newman, Ernest, 1868-1959, tr., Newman, Ernest, 1868-1959.",
         "rating": "3",
-        "publishing_place": "New York, NY"
+        "publishing_house": "New York, NY"
     },
     {
-        
+        "name": "Travelmaster (Travelmaster S.)",
+        "author": "Ordnance Survey",
+        "availability_date": "December 1995",
+        "image": "https://covers.openlibrary.org/b/id/2382026-L.jpg",
+        "price": 45,
+        "quantity": 1,
+        "discount": "0319130274",
+        "id": "OL10453099M",
+        "language": "",
+        "category": "Culture",
+        "contributor": "",
+        "rating": "3",
+        "publishing_house": ""
+      },
+      {
+        "name": "Ralph S. Mouse",
+        "author": "Beverly Cleary",
+        "availability_date": "1983-10",
+        "image": "https://covers.openlibrary.org/b/id/10792265-L.jpg",
+        "price": 280,
+        "quantity": 1,
+        "discount": "0440775825",
+        "id": "OL43429998M",
+        "language": "eng",
+        "category": "Children's Books",
+        "contributor": "B.d. Wong (Narrator), Zelinsky, Paul O., Dockray, Tracy., Tracy Dockray (Illustrator), Paul O. Zelinsky (Illustrator), Zelinsky, Paul O., ill.",
+        "rating": "3",
+        "publishing_house": "London"
+      },
+      {
+        "name": "Laws, etc. (U.S. code annotated)",
+        "author": "United States",
+        "availability_date": "1998",
+        "image": "https://covers.openlibrary.org/b/id/6989470-L.jpg",
+        "price": 44,
+        "quantity": 1,
+        "discount": "0314237569",
+        "id": "OL24368399M",
+        "language": "eng",
+        "category": "Business and Economics",
+        "contributor": "West Group., Edward Thompson Company., West Publishing Company, United States., West Publishing Company.",
+        "rating": "3",
+        "publishing_house": "St. Paul, Minn"
+      },
+      {
+        "name": "J. S. Bach",
+        "author": "Albert Schweitzer",
+        "availability_date": "1952",
+        "image": "https://covers.openlibrary.org/b/id/5970986-L.jpg",
+        "price": 27,
+        "quantity": 1,
+        "discount": "0827760086",
+        "id": "OL21494364M",
+        "language": "",
+        "category": "Fiction",
+        "contributor": "",
+        "rating": "3",
+        "publishing_house": ""
+      },
+      {
         "name": "The journal of George Fox edited from the mss by Norman Penny, F.S.A",
         "author": "George Fox, G. Fox",
         "availability_date": "1983",
         "image": "https://covers.openlibrary.org/b/id/704137-L.jpg",
-       
         "price": 86,
         "quantity": 1,
-        
-        "publisher": [
-            "Octagon Books",
-            "University press",
-            "University Press",
-            "Dutton",
-            "Cosimo Classics",
-            "Religious Society of Friends",
-            "E. P. Dutton & co., inc.",
-            "The University press",
-            "Dent",
-            "At the University press",
-            "Brand: Philadelphia Yearly Meeting",
-            "E.P. Dutton & co.",
-            "J. M. Dent & sons, ltd.",
-            "Capricorn Books",
-            "Issued by the Society of Friends",
-            "Headley Brothers",
-            "Everyman's Library",
-            "Cambridge University Press",
-            "Friends' Tract Association",
-            "J.M. Dent",
-            "Religious Society Of Friends",
-            "Philadelphia Yearly Meeting",
-            "Friends' Tract Association, [Printed and] sold by Headley Brothers",
-            "E. P. Dutton & Co., inc.",
-            "Heron Books",
-            "W. and F. G. Cash",
-            "Friends United Press",
-            "Cash",
-            "J.M. Dent & sons, ltd."
-        ],
         "discount": "9780374928261",
         "id": "OL21250149M",
         "language": "eng",
-        "category": "History, Society of Friends, Diaries, Quakers, Church history, Biography, Fox, george, 1624-1691",
+        "category": "Personal Development",
         "contributor": "Penney, Norman, 1858-,, Jones, Rufus M. 1863-1948., Harvey, T. Edmund 1875-1955., Norman Penney (Editor), Nickalls, John L., Fell, Margaret, 1614-1702., Armistead, Wilson, 1819?-1868 ed., Penney, Norman, 1858-1933, ed., Fox, Margaret Askew Fell, 1614-1702, Penney, Norman., Jones, Rufus Matthew, 1863-1948., Rufus, M. Jones (Editor), Penn, William, 1644-1718., Penney, Norman, 1858-1933, Penn, William, 1644-1718, Penney, Norman, 1858-1933., Penney, Norman, 1858-1933 ed., Cadbury, Henry J., Armistead, Wilson, 1819?-1868, ed., Nuttall, Geoffrey F., Armistead, Wilson.",
         "rating": "3",
-        "publishing_place": "Philadelphia, PA"
-    },
-    {
-        
+        "publishing_house": "Philadelphia, PA"
+      },
+      {
         "name": "T.S. Eliot",
         "author": "M. C. Bradbrook",
         "availability_date": "1970",
         "image": "https://covers.openlibrary.org/b/id/9627869-L.jpg",
-       
-        "price": 25,
+        "price": 250,
         "quantity": 1,
-        
-        "publisher": [
-            "Longmans, for the British Council and the National Book League",
-            "Longman Group for the British Council",
-            "Longman",
-            "Pergamon Pr",
-            "Published for the British Council and the National Book League",
-            "Longmans, Green",
-            "Published for the British Council by Longmans, Green",
-            "Longmans for the British Council",
-            "published for the British Council and the National Book League by Longmans",
-            "Published for The British Council by Longmans, Green & Co.",
-            "Longman for the British Council",
-            "Longmans, Green & Co.",
-            "Longmans",
-            "published for the British Council by Longman Group",
-            "University of Nebraska Press",
-            "Published for the British Council and the National Book League by Longmans, Green",
-            "Published for the British Council by Longman Group Ltd",
-            "Published for the British Council by Longman",
-            "Published for the British Council and the National Book League, by Longmans, Green"
-        ],
         "discount": "0827760086",
         "id": "OL21494364M",
         "language": "eng",
-        "category": "Criticism and interpretation, American Poets, Biography, Poets, American, Printing, History, Mexican literature, Bibliography",
+        "category": "Science Fiction",
         "contributor": "British Council., Fraser, G. S. 1915-, Scott-Kilvert, Ian., National Book League (Great Britain), Hoggart, Richard, 1918-, Fraser, G. S. 1915-1980., Eliot, T. S. 1888-1965., National Book League.",
         "rating": "3",
-        "publishing_place": "London]"
-    },
-    {
-                "name": "Válka s mloky",
+        "publishing_house": "London]"
+      },
+      {
+        "name": "Válka s mloky",
         "author": "Karel Čapek",
         "availability_date": "1936",
         "image": "https://covers.openlibrary.org/b/id/4113422-L.jpg",
-       
         "price": 25,
         "quantity": 1,
-        
-        "publisher": [
-            "Catbird Press",
-            "Milenium Publishing",
-            "Unwin Paperbacks",
-            "Státní nakl. krásné literatury a umění",
-            "G. Allen and Unwin Ltd.",
-            "Orbis",
-            "Melville House Pub.",
-            "G.P. Putnam's Sons",
-            "AMS Press",
-            "Northwestern University Press",
-            "Yale University Press",
-            "Gérard et Cie",
-            "Nakladatel Fr. Borový",
-            "Československý spisovatel",
-            "Utet",
-            "Picador",
-            "Penguin Books",
-            "Fr. Borový",
-            "Raduga",
-            "Berkley Pub. Corp.",
-            "Berkely Pub. Corp.",
-            "Gregg Press",
-            "Unwin",
-            "Československý spisovatel",
-            "Gateway",
-            "Bantam Books",
-            "Čs. spis.",
-            "Unesco"
-        ],
         "discount": "0141180951",
         "id": "OL18623671M",
         "language": "cze",
-        "category": "Czech Science fiction, Continental european fiction (fictional works by one author), Salamanders, Fiction, Science fiction, FICTION / Science Fiction / General, Allegories, Utopias, Czech Satire, Czech drama, Fiction, fantasy, general, Politics and government, Humor, Exploitation, Newts",
+        "category": "Philosophy",
         "contributor": "Osers, Ewald., Weatherall, R. 1899- tr., Ivan Klima (Introduction), M. Weatherall (Translator), Weiss, Jan, 1892-, Wyllie, David, Klıḿa, Ivan, 1931-, Weatherall, M. 1897- tr., Weatherall, Robert, 1899-, Copyright Paperback Collection (Library of Congress), Osers, Ewald, 1917-, Malevich, O. M., Weatherall, M. 1897-, R. Weatherall (Translator), Weatherall, R. 1899-, Ewald Osers (Translator), Weatherall, Marie, 1897-, Halík, Miroslav, ed., Čapek, Karel, 1890-1938.",
         "rating": "3",
-        "publishing_place": "New Haven"
-    },
-    {
-        
+        "publishing_house": "New Haven"
+      },
+      {
         "name": "U.S.A",
         "author": "John Dos Passos",
         "availability_date": "1969",
         "image": "https://covers.openlibrary.org/b/id/929344-L.jpg",
-       
         "price": 20,
         "quantity": 1,
-        
-        "publisher": [
-            "Harcourt, Brace and Company",
-            "Houghton Mifflin Co",
-            "Penguin",
-            "Houghton Mifflin Company",
-            "Gallimard",
-            "Houghton Mifflin",
-            "Library of America",
-            "Theatre Arts",
-            "Lehmann",
-            "New American Library]",
-            "Harcourt, Brace and company",
-            "Houghton, Mifflin",
-            "Harcourt",
-            "Houghton Mifflin Co.",
-            "Signet Classic",
-            "Hoghton Miflin",
-            "Constable",
-            "Harcourt, Brace",
-            "The Modern library",
-            "Penguin Books",
-            "Modern Library",
-            "Riverside Press",
-            "Distributed to the trade in the U.S. by Penguin Books"
-        ],
         "discount": "1883011140",
         "id": "OL17728576M",
         "language": "eng",
-        "category": "Fiction, History, Social life and customs, flashlightworthy, American fiction, World War (1914-1918) fast (OCoLC)fst01180746, World War, 1914-1918, Manners and customs, Influence, Influence (Literary, artistic, etc.), American fiction (fictional works by one author), Romance Norte Americano, Fiction, general",
+        "category": "Culture",
         "contributor": "Dos Passos, John, 1896-1970., Shyre, Paul., Marsh, Reginald, 1898-1954, illus., Dos Passos, John., Daniel Aaron (Editor), Townsend Ludington (Editor)",
         "rating": "3",
-        "publishing_place": "[Harmondsworth, Eng.]"
-    },
-    {
-        
+        "publishing_house": "[Harmondsworth, Eng.]"
+      },
+      {
         "name": "Mathematics in Action - G.C.S.E.and Scottish Standard Grade (Mathematics in Action)",
         "author": "Mathematics in Action Group",
         "availability_date": "October 1988",
         "image": "https://covers.openlibrary.org/b/id/1121998-L.jpg",
-       
         "price": 110,
         "quantity": 1,
-        
-        "publisher": [
-            "Blackie",
-            "Nelson Thornes Ltd",
-            "Blackie for Mathematics in Action Group",
-            "Nelson Blackie",
-            "Thomas Nelson & Sons"
-        ],
         "discount": "9780216919167",
         "id": "OL21189314M",
         "language": "eng",
-        "category": "Mathematics, Study and teaching",
+        "category": "Personal Development",
         "contributor": "Mathematics in Action Group., Mathematicsin Action Group.",
         "rating": "3",
-        "publishing_place": "Glasgow"
-    },
-    {
-        
-        "name": "CIMA Study Pack (CIMA Study Packs S.)",
-        "author": "Chartered Institute of Management Accountants.",
-        "availability_date": "1990",
-        "image": "https://covers.openlibrary.org/b/id/13309584-L.jpg",
-       
-        "price": 83,
+        "publishing_house": "Glasgow"
+      },
+      {
+        "name": "Children's Book Title 1",
+        "author": "Author 1",
+        "availability_date": "2022",
+        "image": "https://covers.openlibrary.org/b/id/123456789-L.jpg",
+        "price": 20,
         "quantity": 1,
-        
-        "publisher": [
-            "Financial Training",
-            "Financial Training Courses",
-            "Nelson Thornes Ltd",
-            "Financial Training Co.",
-            "Financial Training Company Ltd"
-        ],
-        "discount": "9781851794294",
-        "id": "OL21942500M",
+        "discount": "9781234567890",
+        "id": "OL12345678M",
         "language": "eng",
-        "category": "",
-        "contributor": "Chartered Institute of Management Accountants., CharteredInstitute of Management Accountants., Chartered Institute of Managemant Accountants.",
+        "category": "Children's Books",
         "rating": "3",
-        "publishing_place": "London"
-    },
-    {
-        
-        "name": "ACCA Study Pack (ACCA Study Pack S.)",
-        "author": "Association of Chartered Certified Accountants",
-        "availability_date": "October 27, 2004",
-        "image": "https://covers.openlibrary.org/b/id/11449199-L.jpg",
-       
-        "price": 82,
+        "publishing_house": "Publisher A"
+      },
+      {
+        "name": "Psychology Book Title 1",
+        "author": "Author 2",
+        "availability_date": "2023",
+        "image": "https://covers.openlibrary.org/b/id/987654321-L.jpg",
+        "price": 30,
         "quantity": 1,
-        
-        "publisher": [
-            "Financial Training Company Ltd",
-            "Financial Training",
-            "Financial Training Company",
-            "The Financial Training Company",
-            "Financial Training Co.",
-            "Financial Training Courses",
-            "Financial Training Courses, Publishing and DistanceLearning",
-            "Financial Training Co",
-            "Nelson Thornes Ltd"
-        ],
-        "discount": "9781851794218",
-        "id": "OL11951431M",
+        "discount": "9789876543210",
+        "id": "OL98765432M",
         "language": "eng",
-        "category": "Great Britain",
-        "contributor": "Association of Chartered Certified Accountants., Brierley Price Prior Ltd., Financial Training Company Limited., Chartered Association of Certified Accountants., Financial Training Courses. Publishing and Distance Learning., Association of Certified and Corporate Accountants.",
-        "rating": "3",
-        "publishing_place": "London"
-    },
-    {
-        
-        "name": "Journal of researches into the geology and natural history of the various countries visited by H.M.S. Beagle",
-        "author": "Charles Darwin",
-        "availability_date": "July 25, 2007",
-        "image": "https://covers.openlibrary.org/b/id/230307-L.jpg",
-       
-        "price": 122,
+        "category": "Psychology",
+        "rating": "4",
+        "publishing_house": "Publisher B"
+      },
+      {
+        "name": "Science Fiction Book Title 1",
+        "author": "Author 3",
+        "availability_date": "2024",
+        "image": "https://covers.openlibrary.org/b/id/567890123-L.jpg",
+        "price": 25,
         "quantity": 1,
-        
-        "publisher": [
-            "Ward, Lock and co.",
-            "Harper",
-            "Ward, Lock",
-            "P.F. Collier & Son",
-            "Quiet Vision",
-            "Turtleback Books Distributed by Demco Media",
-            "Tantor Media",
-            "Edito-Service",
-            "Penguin Books",
-            "Books on Tape, Inc.",
-            "Fischer Taschenbuch Verlag",
-            "Editorial Universitaria",
-            "Barnes & Noble",
-            "P.F. Collier & son",
-            "Amalgamated Press",
-            "P.F. Collier",
-            "E.P. Dutton & Co., Inc.",
-            "Harper & Row",
-            "Wordsworth ids",
-            "The World's Work",
-            "IndyPublish",
-            "Stackpole Books",
-            "Everymans Library",
-            "Dutton",
-            "eBooksLib",
-            "Doubleday",
-            "Dent",
-            "D. Appleton and company",
-            "Distributed by Heron Books",
-            "Del Nuevo Extremo",
-            "The Floating Press",
-            "Rebound by Sagebrush",
-            "E. P. Dutton & co., inc.",
-            "J.M. Dent & Sons, Ltd.",
-            "IndyPublish.com",
-            "Dent, Dutton",
-            "J. Murray",
-            "J.M. Dent",
-            "Modern Library",
-            "Collier",
-            "Hafner Pub. Co.",
-            "Meridian Books",
-            "Books on Tape",
-            "Plume",
-            "Orion Publishing Group, Limited",
-            "Culture et Civilisation",
-            "Kessinger Publishing, LLC",
-            "National Geographic",
-            "H. Colburn",
-            "White Star",
-            "E.P. Dutton",
-            "Echo Library",
-            "J. M. Dent & sons, ltd.",
-            "Nelson",
-            "Appleton",
-            "The Narrative Press",
-            "D. Appleton and Company",
-            "National Geographic Society",
-            "Bantam Books",
-            "Harper & brothers"
-        ],
-        "discount": "1576461270",
-        "id": "OL18199783M",
+        "discount": "9785678901234",
+        "id": "OL56789012M",
         "language": "eng",
-        "category": "Beagle (Ship), Beagle Expid, Beagle Expid (1831-1836), Beagle Expid (1831-1836) cn., Beagle Expid, 1831-1836, Chile, discount and travel, Evolution, Expids, Geology, Geology.\u001e00, History, Natural history, Pictorial works, Voyages and travels, Voyages around the world, Guidebooks, Long Now Manual for Civilization, Discovery and exploration, Darwin, charles, 1809-1882, Scientific expids, South america, discount and travel, Sciences naturelles, Géologie, Voyages autour du monde, discounts et voyages, Travel, Personal narratives, Beagle Expid (1831-1836) fast (OCoLC)fst01405297, Beagle Expid (1831-1836) cct, NATURE / General, TRAVEL / General, Beagle Expid (1831-1836) http://id.loc.gov/authorities/names/n50077067, Beagle expid (1831-1836)",
-        "contributor": "Engel, Leonard., Castro Le-Fort, Eduardo., Charles W. Eliot (Editor), Sullivan, Walter., David Quammen (Introduction), Beccaceci, Marcelo D., Selsam, Millicent Ellis, 1912-, Browne, E. J. 1950-, Selsam, Millicent E., Fitzroy, Robert, 1805-1865, Yudilevich Levy, David., Steve Jones (Introduction), Engel, Leonard, 1916-1964, ed., David Case (Narrator), Neve, Michael., Mellersh, H. E. L., Engel, Leonard, 1916-1964, Walter Sullivan (Introduction), Beagle Expid (1831-1836), Selsam, Milicent Ellis, 1912-",
-        "rating": "3",
-        "publishing_place": "[London]"
-    },
-    {
-        "id": "/works/OL1341036W",
-        "name": "The sleeping prince",
-        "author": "Terence Rattigan",
-        "availability_date": "1959",
-        "image": "https://covers.openlibrary.org/b/id/12918825-L.jpg",
-        "images": [],
+        "category": "Science Fiction",
+        "rating": "4",
+        "publishing_house": "Publisher C"
+      },
+      {
+        "name": "Fantasy Book Title 1",
+        "author": "Author 4",
+        "availability_date": "2025",
+        "image": "https://covers.openlibrary.org/b/id/321098765-L.jpg",
         "price": 35,
         "quantity": 1,
-        "discount": "",
-        "publisher": [
-            "Random House",
-            "Hamish Hamilton",
-            "Samuel French Ltd",
-            "French",
-            "Theatre Arts",
-            "Dramatists Play Service",
-            "S.French"
-        ],
-        "isbn": "9780573014215",
-        "id": "OL14426243M",
+        "discount": "9783210987654",
+        "id": "OL32109876M",
         "language": "eng",
-        "subject": "",
-        "contributor": "",
-        "rating": 0,
-        "publishing_place": "London"
-    },
-    
-        {
-            "id": "/works/OL71069W",
-            "name": "Prince Caspian",
-            "author": "C. S. Lewis",
-            "availability_date": "2007",
-            "image": "https://covers.openlibrary.org/b/id/45897-L.jpg",
-            "images": [],
-            "price": 25,
-            "quantity": 1,
-            "discount": "",
-            "publisher": [
-                "ABC-Clio Ltd",
-                "HarperCollins Publishers Ltd",
-                "Harper Collins Publishers",
-                "Collins Audio",
-                "Tandem Library",
-                "Demco Media",
-                "Harpercollins Publishers",
-                "Cwasg Efengylaidd Cymru",
-                "HarperChildrensAudio",
-                "HarperCollins",
-                "Brendow",
-                "Penguin Random House",
-                "G.K. Hall",
-                "HarperAudio",
-                "Destino Ediciones",
-                "Annette Betz Verlag",
-                "MacMillan Publishing Company",
-                "Yi lin chu ban she",
-                "Collier Books",
-                "Fontana",
-                "Scholastic Inc",
-                "HarperCollins Publishers Limited",
-                "Gallimard jeunesse",
-                "Index",
-                "Unknown Publisher",
-                "Folio Society",
-                "HarperCollins Publishers",
-                "Harper Trophy",
-                "Faded Page",
-                "G. Bles",
-                "Ted Smart",
-                "Focus on the Family Publishing",
-                "A. Betz",
-                "Independently Published",
-                "Yestermorrow Inc",
-                "Diamond",
-                "Macmillan Co.",
-                "Penguin Books",
-                "Bonniers juniorförl.",
-                "Turtleback Books Distributed by Demco Media",
-                "Windrush",
-                "HarperEntertainment",
-                "Dell",
-                "Rayo",
-                "Andres Bello",
-                "Da tian chu ban you xian gong si",
-                "Tyndale Entertainment",
-                "Lions",
-                "Scholastic Inc.",
-                "HarperTrophy",
-                "DIAMOND",
-                "Collins",
-                "Penguin",
-                "Bles",
-                "Scholastic Book Services",
-                "Harper Collins",
-                "G. K. Hall & Company",
-                "Thorndike Press",
-                "Callenbach",
-                "scholastic Inc",
-                "Editorial Planeta",
-                "Books UK Ltd.",
-                "HarperCollins Narnia",
-                "HarperCollins Audio",
-                "Scholastic",
-                "Macmillan",
-                "Distribooks",
-                "Flammarion",
-                "Mondadori",
-                "Iwanami Shoten",
-                "Perfection Learning Prebound",
-                "Macmillan Publishing Company",
-                "Media Rodzina",
-                "Random House Audio",
-                "NXB Kim Đồng"
-            ],
-            "isbn": "9781561797868",
-            "id": "OL26116805M",
-            "language": "eng",
-            "subject": "Fantasy, Narnia (Imaginary place), Princes, Juvenile fiction, Good and evil, Fiction, Ships, Juvenile, Fairy tales, Fantasy fiction, Children's fiction, Narnia (imaginary place), fiction, Large type books, English Christian fiction, English Fantasy fiction, Children's stories, English, Kings and rulers, Child and youth fiction, Adventure and adventurers, fiction, Children's stories, Fantasy fiction, history and criticism, Lewis, c. s. (clive staples), 1898-1963, Literary recreations, Questions and answers, Sprookjesfiguren, Queesten, Jeugdboeken ; verhalen, English fiction, Aslan the Lion (Fictitious character), Magic, Animals, Fantastic fiction, Narnia (Lugar imaginario), Ficción juvenil, Bien y mal, Príncipes, Novela fantástica, Children's fantasy fiction, Princesses, fiction, Fiction, action & adventure, Fiction, fantasy, general, Polish language materials, Spanish language materials, Cuentos ingleses, Traducciones al español, Literatura inglesa, Fantasía, Fantasmes, Romans, nouvelles, etc. pour la jeunesse, Good and evil, fiction",
-            "contributor": "Lynn Redgrave (Narrator), Baynes, Pauline, Seta, Teiji., Claire Bloom (Narrator), Dramatization (Narrator), Bovenkamp, Madeleine van de, Lewis, C. S. 1898-1963., Georg, Thomas, ill., Lademann-Wildhagen, Lena., Baynes, Pauline, 1922-2008, Baynes, Pauline, ill., Gemma Gallart (Translator), Cliff Nielsen (Editor), Matthew S. Armstrong (Illustrator), Baynes, Pauline. ill., Baynes, Pauline., Anne-Marie Dalmais (Translator), Zhang, Yan., Julek Heller (Illustrator), Hò̂ng Vân, Lynn Redgrave (Reader), Dalmais, Anne-Marie, 1942- ..., Mondadori, Baynes, Pauline (Pauline Diana), 1922-2008, Pauline Baynes (Illustrator)",
-            "rating": 0,
-            "publishing_place": "(Oxford)"
-        },
+        "category": "Fantasy",
+        "rating": "3",
+        "publishing_house": "Publisher D"
+      },
+      {
+        "name": "Fiction Book Title 1",
+        "author": "Author 5",
+        "availability_date": "2026",
+        "image": "https://covers.openlibrary.org/b/id/456789012-L.jpg",
+        "price": 22,
+        "quantity": 1,
+        "discount": "9784567890123",
+        "id": "OL45678901M",
+        "language": "eng",
+        "category": "Fiction",
+        "rating": "4",
+        "publishing_house": "Publisher E"
+      },
+      {
+        "name": "Business and Economics Book Title 1",
+        "author": "Author 6",
+        "availability_date": "2027",
+        "image": "https://covers.openlibrary.org/b/id/901234567-L.jpg",
+        "price": 40,
+        "quantity": 1,
+        "discount": "9789012345678",
+        "id": "OL90123456M",
+        "language": "eng",
+        "category": "Business and Economics",
+        "rating": "3",
+        "publishing_house": "Publisher F"
+      },
         {
             "id": "/works/OL10263W",
             "name": "Le petit prince",
@@ -1616,231 +1135,14 @@
             "price": 39,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "Salamandra",
-                "Loewe Verlag GmbH",
-                "HarperAudio",
-                "Continental Book Co Inc",
-                "William Heinemann",
-                "Wordsworth",
-                "Davout",
-                "Harcourt Brace & Co.",
-                "HarperCollins Publishers Limited",
-                "Penguin Books, Limited",
-                "Rily Publications Limited",
-                "Book Club Associates",
-                "Thorndike Press",
-                "Brand: Letras Cubanos Editorial",
-                "Yunnan mei shu chu ban she",
-                "Farshore",
-                "Turtleback",
-                "Alianza Editorial S.A.,Spain",
-                "Penguin Random House",
-                "Editora Penkal",
-                "Arcturus Publishing Ltd",
-                "E P Dutton",
-                "Harbin Publishing",
-                "Lagan Press",
-                "Oceano De Mexico",
-                "Harcourt Brace & World",
-                "Primedia eLaunch LLC",
-                "G.K. Hall",
-                "Murine Publications",
-                "Edições Asa",
-                "ASA EDIÇÕES",
-                "Daedalus",
-                "HARCOURT",
-                "Heinemann",
-                "Harcourt Brace",
-                "Mammoth",
-                "Harcourt, Brace, Jovanovich",
-                "Harcourt Childrens Books (J)",
-                "Libro de Bolsillo",
-                "Chiltern Publishing Ltd",
-                "Wordsworth Editions",
-                "HMH Books for Young Readers",
-                "Harcourt, Brace & World.",
-                "Enrique Sainz",
-                "HN Publishing",
-                "FISCHER Taschenbuch",
-                "Crw Publishing",
-                "Tomo",
-                "Harvest Books",
-                "Zangak-97",
-                "Reynal",
-                "The Trumpet Club",
-                "Brolga Publishing",
-                "Detskai︠a︡ literatura\"",
-                "Escamilla Books",
-                "STE Publishers",
-                "Irwin Publishing Inc",
-                "Turtleback Books Distributed by Demco Media",
-                "Piccolo",
-                "EGMONT CHILDREN'S",
-                "col. ill.",
-                "Everyman",
-                "Perfection Learning Prebound",
-                "Gallimard Jeunesse",
-                "Klett (Ernst) Verlag,Stuttgart",
-                "Engin",
-                "Harcourt Childrens Books",
-                "Publicaciones y Ediciones Salamandra, S.A.",
-                "Harcourt",
-                ".",
-                "Wolters-Noordhoff",
-                "Harcourt, Inc.",
-                "Agir",
-                "PENGUIN UK",
-                "Harcourt, Brace and World, Inc.",
-                "Walker Books, Limited",
-                "Galaxia",
-                "Harbrace Paperback Lib.",
-                "Letras Cubanas Editorial",
-                "Anaya Editores S. A.",
-                "Need de Lingenti Maria L.",
-                "HMH Books",
-                "Harcourt Brace Jovanovich",
-                "Echo Point Books & Media, LLC.",
-                "Bellhaven House",
-                "Egmont Books, Limited",
-                "Emecé",
-                "Ge lin wen hua",
-                "Deutscher Taschenbuch Verlag GmbH & Co.",
-                "F. Schöningh, Paderborn",
-                "PMariner Books",
-                "Pan",
-                "EvroSistem",
-                "CAIRN",
-                "Editions Gallimard",
-                "Pan Books",
-                "Xi yuan chu ban she",
-                "Carpentino, Michela",
-                "Reynal & Hitchcock",
-                "Ferdinand Schoningh Paderborn",
-                "Emece Editores",
-                "Harcourt Children's Books",
-                "Chen xing chu ban she",
-                "Pan Macmillan",
-                "Everyman's Library",
-                "Houghton Mifflin",
-                "Jāga Prakāśana",
-                "Pax",
-                "Znanje",
-                "Rehak, David",
-                "Chʻaek i Innŭn Maŭl",
-                "Bt Bound",
-                "Knopf Doubleday Publishing Group",
-                "Iwanami Shoten",
-                "Ha'erbin chu ban she",
-                "French and European Publications Inc",
-                "Zong jing xiao Zhi ji yu xian gong si",
-                "Union Mundial pro Interlingua",
-                "Prosveta Usa",
-                "Pavilion Books",
-                "Leyenda",
-                "El Libro de Bolsillo",
-                "Editores Mexicanos Unidos",
-                "imusti",
-                "French & European Pubns",
-                "Blurb, Incorporated",
-                "Nasza Księgarnia",
-                "Ferdinand Schöningh",
-                "Houghton Mifflin (T)",
-                "Passport Books",
-                "PICADOR",
-                "Emecé",
-                "Houghton Mifflin Company",
-                "Amereon Press",
-                "Editit Fernandus Hazan",
-                "Gallimard-Jeunesse",
-                "Harcourt, Brace Jovanovich",
-                "Schöningh im Westermann",
-                "INTERART",
-                "Munye Chʻulpʻansa",
-                "Harcourt, Brace & Jovanovich",
-                "Caedmon",
-                "Wordsworth Editions, Limited",
-                "Emece Spanish",
-                "Editorial Presença, 2005.",
-                "Egið forlag",
-                "Guo ji shao nian cun",
-                "\"Zolotoĭ petushok\"",
-                "Chouette Publishing",
-                "NTC/Contemporary Publishing Company",
-                "Alianza Emecé",
-                "Omilia Languages Ltd",
-                "Schoenhof Foreign Books Inc",
-                "Xing qiu di tu chu ban she",
-                "GALLIMARD",
-                "Random House Children's Books",
-                "Albatros",
-                "EDRS MEXICANOS UNIDOS",
-                "Arcturus Publishing",
-                "Cernunnos",
-                "Distribooks Inc",
-                "Mondadori",
-                "Juan Coderch",
-                "Schoenhofsforeign Books Inc",
-                "Jilin chu ban ji tuan you xian ze ren gong si",
-                "Piccolo in association with Heinemann",
-                "CreateSpace Independent Publishing Platform",
-                "Dolmen Ediciones",
-                "Continental Book Company",
-                "Intisharat-i Nigāh",
-                "Buffalo Book Co",
-                "Karl Rauch",
-                "harcourt, brace and world",
-                "Harvest/HBJ",
-                "Argo",
-                "Heinemann Educational Books",
-                "Tandem Library",
-                "Edition IE-Munde",
-                "ʻAm ʻoved",
-                "Klett",
-                "Kanada Esperanto-Asocio",
-                "Kondeatis Designs Limited, Christos",
-                "Edition Tintenfaß",
-                "El Gato de Hojalata",
-                "Gió Bó̂n Phương",
-                "Houghton Mifflin Harcourt Publishing Company",
-                "Salamandra Infantil y Juvenil",
-                "Alemar/Phoenix",
-                "Amereon Limited",
-                "Quality Paperback Book Club",
-                "Harcourt, Brace & World",
-                "Koch, Neff & Oetinger & Co",
-                "Independently Published",
-                "Educa Books/ Gallimard",
-                "An Tiem",
-                "Bompiani",
-                "Alianza Editorial",
-                "Grijalbo Mondadori Sa",
-                "Pollina",
-                "White Star Publishers",
-                "Fernández",
-                "Penguin",
-                "White Star",
-                "Lia Rumantscha",
-                "Egmont",
-                "Editores Mexicanos Unidos, S.A.",
-                "Egmont Books",
-                "Sine nomine",
-                "Alianza",
-                "Om Books International",
-                "Gallimard",
-                "Alma Classics",
-                "Karl Rauch Verlag",
-                "Distribooks",
-                "Bompiani Italian",
-                "Grupo Editorial Lumen"
-            ],
+            "publisher": "",
             "isbn": "9780156012072",
             "id": "OL43090366M",
             "language": "pol",
             "subject": "adventure, fantasy, friendship, love, childhood, loss, loneliness, Italian language, Children's fiction, Friendship, fiction, Fantasy fiction, Princes, fiction, Fairy tales, Adventure and adventurers, fiction, Princes, Fiction, Toy and movable books, Continental european fiction (fictional works by one author), French language, readers, Romans, nouvelles, Travel, fiction, Juvenile fiction, Children's stories, French, Translations into Turkish, Children's stories, Turkish, Pride and vanity, In library, Asteroids, Conduct of life, Translations into Spanish, Fantasmes, Romans, nouvelles, etc. pour la jeunesse, Príncipes, Novela juvenil, Fiction, general, Philosophy",
             "contributor": "Leitgeb, Josef, 1897-1952., Saint-Exupéry, Antoine de., Leitgeb, Grete., Leitgeb, Grete, tr., Carril, Boniacio del., Saint-Exupéry, Antoine de, 1900-1944, Woods, Katherine, 1886- ., Miller, John Richardson, b. 1890., Kristiansen, Alexandur, 1949-, Galʹ, Nora., Shuffrey, F. A., Leitgeb, Josef., Woods, Katherine, 1886-1968, Miller, John Richardson,  1890-  ed., Bonifacio Del Carril (Translator), Woods, Katherine, 1886-1968, translator, Koshkin, Alexander., Lemos, Regina, Bùi, Giáng, 1926-, Leitgeb, Josef, 1897-1952, Howard, Richard, 1929- translator, Howard, Richard, 1929-, Kušan, Ivan, 1933-, Machado, José de Paula, Leitgeb, Grete, Testot-Ferry, Irene., Varela, Joana Morais., Sibusiso Madondo (Translator), Lerner, Aryeh., NCircle Entertainment, Leitgeb, Josef, 1897-1952, tr., Wu, Qunfang, Ai, ke, Blanchet, Jacques, 1914-, Naitō, Arō, 1883-1977., Barbosa, Marcos., Biet, Christian., Richard Howard (Translator) (Translator), Maguire, Gregory, writer of foreword, Habta Māryām Mārqos., Trà̂n, Thiện Đạo., Antonio, Lilia F., Lexcaut, Jessica., Liu, Jiayang, translator, Chʻoe, Pok-hyŏn, 1959-, Barbosa, Marcos, Woods, Katherine, 1886- tr., Shāmlū, Aḥmad., Woods, Katherine, 1886-, Ustinov, Peter, Chŏn, Sŏng-ja., Haury, Auguste., Trznadel-Szczepanek, Anna., Cuffe, T. V. F., Saint-Exupery, Antoine De, 1900-1944., Zhang, Chenguang, translator, Lange, H. de (Herman), fl.1942, Katherine Woods, Fang, Zhenyu, translator, Willigen, D.M. van (Daan Marten), Miller, John Richardson, 1890- ed, Louis Jourdan (Reader)",
             "rating": 0,
-            "publishing_place": "'"
+            "publishing_house": "'"
         },
         {
             "id": "/works/OL53994W",
@@ -1852,198 +1154,14 @@
             "price": 35,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "Harper & Row",
-                "Musson Book",
-                "Wordsworth",
-                "IndyPublish",
-                "Penguin Books, Limited",
-                "Independently published",
-                "Moskovskiĭ rabochiĭ",
-                "Harper & brothers",
-                "Harper & Bros.",
-                "Lin yü wen hua shi yeh yu xian gong si",
-                "Nelson Doubleday, Inc.",
-                "Puffin Classics",
-                "Longamann Group UK Limited",
-                "Dawson",
-                "James R. Osgood and Co.",
-                "University of California Press",
-                "New American Library",
-                "ANAYA",
-                "Pehuen Editores",
-                "G.K. Hall",
-                "Parragon Book Service",
-                "Klett Sprachen GmbH",
-                "Gabriel Wells",
-                "Scholastic",
-                "World Pub. Co.",
-                "N.E.L.",
-                "Bloomsbury",
-                "Amīr Kabīr",
-                "Shang hai yi wen chu ban she",
-                "James R. Osgood",
-                "Scholastic Paperbacks Trade",
-                "Gente Nueva Editorial",
-                "Mateos Ediciones",
-                "Adamant Media Corporation",
-                "Airmont Pub. Co.",
-                "Fictionwise, Inc.",
-                "Simon & Brown",
-                "Aegypan",
-                "Scholastic Trade",
-                "Reysa",
-                "Cengage Heinle",
-                "LibriVox",
-                "Selector",
-                "Distributed by Crown Publishers",
-                "Paperbackshop.Co.UK Ltd - Echo Library",
-                "J. R. Osgood and company",
-                "Dover Publications",
-                "Bantam Classics",
-                "Digital Scanning",
-                "Aladdin",
-                "Penguin USA, Inc.",
-                "Digireads.com Publishing",
-                "Scholarly Press",
-                "Rus'ka knyharni︠a︡",
-                "Extra",
-                "Chatto & Windus, Piccadilly",
-                "Turtleback Books Distributed by Demco Media",
-                "Oscar",
-                "Porrua",
-                "Dent",
-                "Book Sales",
-                "Random House Publishing Group",
-                "HarperCollins Publishers",
-                "Ȯbȯr Mongġol-un Sinquva Nom-un Delgegu̇r tarqaġaba",
-                "Ȯbȯr Mongġol-un Surġan Ku̇mu̇jil-u̇n Keblel-u̇n Qoriy-a",
-                "anaya",
-                "Nelson ELT",
-                "BiblioBazaar",
-                "American Publishing Company",
-                "Signet Classics",
-                "Puffin",
-                "Project Gutenberg",
-                "Children's Classics",
-                "Grosset & Dunlap",
-                "Acme",
-                "ABDO Pub.",
-                "Published for the Iowa Center for Textual Studies by the University of California Press",
-                "Hachette",
-                "Macmillan Collector's Library",
-                "American pub. co.",
-                "Trafalgar Square Publishing",
-                "Penguin Group UK",
-                "Echo Library",
-                "Chatto & Windus",
-                "Yoyo Music USA Inc",
-                "Barnes & Noble World Digital Library",
-                "Lademann",
-                "ICON Group International, Inc.",
-                "Published in cooperation with the University of Iowa [by] University of California Press",
-                "Oxford University Press",
-                "Andres Bello",
-                "Harper & Brothers Publishers",
-                "Junior Deluxe Editions",
-                "Macmillan Publishing Company",
-                "Amazon Publishing",
-                "Salvat",
-                "MacMillan Collector's Library",
-                "NuVision Publications",
-                "Wordsworth Editions Ltd",
-                "HarperCollins",
-                "Harper & Bros. Pub.",
-                "Nelson",
-                "1st World Library",
-                "National Yiddish Book Center",
-                "Bantam",
-                "Troll Communications",
-                "Globe Book Co.",
-                "Childrens Press",
-                "Porrúa",
-                "Signet",
-                "Reader's Digest Association",
-                "Yoyo USA",
-                "Dtv",
-                "P F Collier & Son",
-                "Audio Book Contractors, Inc.",
-                "Gz Editores",
-                "Signet Classic",
-                "Printed for the members of the Limited Editions Club by the Westerham Press",
-                "Nakladom Rusʹkoï Knyharnï",
-                "Parragon Plus",
-                "Pocket",
-                "Caedmon",
-                "Harper Audio",
-                "Putnam Publishing Group",
-                "IndyPublish.com",
-                "Caedmon Audio Cassette",
-                "Macmillan Readers",
-                "Charles L. Webster & Company",
-                "B. A. Ḳletsḳin",
-                "The John C. Winston company",
-                "Reprint Services Corp",
-                "Icon Reference",
-                "Saddleback Educational Publishing, Inc.",
-                "Andre Deutsch",
-                "Gos. Izd. Detskoi lit",
-                "Ȯbu̇r Mongġul-un Surġan Ku̇mu̇jil-u̇n Keblel-u̇n Qoruiy-a",
-                "Pearson English Language Teaching",
-                "HARPER COLLINS PUBLISHERS",
-                "Troll Associates",
-                "CreateSpace Independent Publishing Platform",
-                "Rose-Belford",
-                "Hachette Jeunesse",
-                "Rose-Belford Pub. Co.",
-                "Atlantida",
-                "J.R. Osgood",
-                "eBooksLib",
-                "Prestwick House, Inc.",
-                "Panamericana Editorial Ltda",
-                "Dewan Bahasa dan Pustaka, Malaysia",
-                "Franklin Classics Trade Press",
-                "E. P. Dutton",
-                "Harper",
-                "Helbling Languages GmbH",
-                "Tandem Library",
-                "Baronet Books",
-                "ICON Classics",
-                "Buccaneer Books",
-                "Dawson Brothers",
-                "ICON Reference",
-                "Heritage Press",
-                "Zig Zag",
-                "sachnoiapp",
-                "Independently Published",
-                "Yearling",
-                "Digital Scanning, Inc.",
-                "Franklin Classics",
-                "Harper & Brothers",
-                "LRS",
-                "Penguin Books",
-                "Oxford University Press (China) Ltd.",
-                "Lerner Publishing Group",
-                "Portland House Illustrated Classics",
-                "Pearson Education, Limited",
-                "Scott, Foresman",
-                "C.L. Webster",
-                "Barnes & Noble Classics",
-                "Dressler Verlag",
-                "Modern Library",
-                "Airmont Pub Co",
-                "Nakl. Rus £koi  Knyharni",
-                "Bantam Books",
-                "Distributed by Random House",
-                "Goldsmith Pub. Co."
-            ],
+            "publisher": "",
             "isbn": "9781435326408",
             "id": "OL26008450M",
             "language": "eng",
             "subject": "Readers, Fiction, Poor, Kings and rulers, Impostors and imposture, Poor children, Boys, Classic Literature, Princes, Adventure and adventurers, Open Library Staff Picks, Mistaken identity, Lookalikes, Adventure stories, Social classes, History, Juvenile fiction, Large print, Sexual ethics for teenagers, Sex instruction for youth, Sexual ethics, Large type books, Children's fiction, Princes, fiction, Edward vi, king of england, 1537-1553, fiction, Adventure and adventurers, fiction, Boys, fiction, England, fiction, American fiction (fictional works by one author), London (england), fiction, Fiction, historical, Great britain, history, fiction, American literature, Social role, Historical fiction, Edward, Great britain, fiction, Fiction, action & adventure, Fiction, historical, general, Theft, fiction, Poverty, fiction, Private schools, fiction, Great britain, history, tudors, 1485-1603, fiction, Poverty, Kindness, Theft, Hunger, Children of alcoholics",
             "contributor": "Spier, Peter., Letchworth, Pierre., Blaisdell, Robert., Parker, Philip M., John Davis Batchelder Collection (Library of Congress), Limited Editions Club, Lynch, Brendan, ill., Salamo, Lin., Zhang, Yousong, Hatherell, William, ill, Wendroff, Zalman, 1879-, Rollin, Lucy., Iowa Center for Textual Studies., Amy, Sterling Casil (Introduction), Paine, Albert Bigelow., Qāz̤ī, Muḥammad., James, Frank, 1844-1915. ill., Fischer, Victor, 1942-, Lawson, Robert, 1892-1957., Kliros, Thea, ill., Parker, Philip M., 1960-, Copyright Paperback Collection (Library of Congress), Bunce, Lou P., Westerham Press, Dempster, Dunbracco, illus., Andy Hopkins, Bogart, Shirley., Jane Rollason, Jones, Mary Jane, 1938-, Letchworth, Sarah., Jocelyn Potter, Booth, Franklin, 1874-1948., Suzanne Fisher Staples (Foreword), Hodgson, Robert, illus., Warner, Charles Dudley, 1829-1900, joint author, Roy J. Friedman Mark Twain Collection (Library of Congress), D. H. Howe (Editor), Huggins, Viola., Thea Kliros (Illustrator), Merrill, Frank Thayer., Hatherell, William, ill., Hutton, Clarke, 1898-1984, ill, Twain, Mark, 1835-1910., Troll Associates, Robert Tine (Introduction), Limited Editions Club Collection (Library of Congress)",
             "rating": 0,
-            "publishing_place": "Ṿilne"
+            "publishing_house": "Ṿilne"
         },
         {
             "id": "/works/OL4558936W",
@@ -2055,196 +1173,14 @@
             "price": 150,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "Rinehart",
-                "Printed [by Robert Bell] for every purchaser.",
-                "Printed for and Sold by Oliver D. Cooke.",
-                "Printed and sold by S. Backus",
-                "E.V.R. Oonnythan & Co.",
-                "E.P. Dutton and co.",
-                "G. Giappichelli",
-                "Printed for W. Strahan, J. Dodsley and E. Johnston",
-                "Printed for J. Walker, J. Johnson, J. Richardson, F. C. and J. Rivington, Vernor, Hood and Sharpe",
-                "Dutton",
-                "Suttaby, Evance & Fox and Crosby",
-                "ThéoTeX",
-                "Schillerischen Verlage und in Kommission bei Barrentrapp Sohn und Wenner",
-                "Printed for Joseph Wenman ...",
-                "Printed forC. Cooke by J. Adlard",
-                "printed for C. Cooke, by J. Adlard, and sold by all the booksellers in Great Britain and Ireland",
-                "J.M. Dent",
-                "Greyn Forest Press",
-                "Scott, Webster, and Geary",
-                "Printed at the \"Herald\" press by and for John P. Thomson",
-                "Barron's Educational Series, Inc.",
-                "Oxford University Press, USA",
-                "John B. Alden",
-                "Adamant Media Corporation",
-                "A.C. McClurg and Co.",
-                "Lackington, Allen",
-                "W. Johnston",
-                "Printed for P. Rusher; sold by Mr. Budd, Mr. Miller, Mr. Tegg, London, and Mr. J. Rusher, Reading; Cheney, printer, Banbury",
-                "Printed for P. Rusher...",
-                "Printed for W. Strahan, W. Johnstonand J. Dodsley",
-                "Printed for Sheppard and Nugent",
-                "E.P. Dutton",
-                "Broadview Editions",
-                "Impreso por Henrique Bryer ...",
-                "H. McLean; [etc., etc.]",
-                "Dover Publications",
-                "printed for J.F. and C. Rivington, J. Dodsley, T. Longman, and G. and T. Wilkie",
-                "Printed by B. R. Howlett for John Booth",
-                "W. Suttaby, B. Crosby, Scatcherd & Letterman",
-                "Baudry",
-                "A. C. McClurg and Co.",
-                "Het Spectrum",
-                "Chez M.M. Lackington, Allen, et Comp.",
-                "printed for R. and J. Dodsley...and W. Johnston...",
-                "Printed by Francis Bailey ... and T. Lang ...",
-                "Dent",
-                "printed for J. F. and C. Rivington, J. Dodsley, T. Longman, and G. and T. Wilkie",
-                "Published by William Miller...",
-                "Chez Stassin et Zavier",
-                "Printed for Scott, Webster, and Geary",
-                "Home Book C0.",
-                "Melville House Pub.",
-                "Printed by B. Dewhirst ...",
-                "BiblioBazaar",
-                "Dodo Press",
-                "SMK Books",
-                "Dalla Stamperia di G. P. Pozzolini",
-                "Kessinger Publishing",
-                "Printed for H.D. Symonds",
-                "Printed by C. Whittingham for Longman, Hurst, Rees and Orme, G. Wilkie...",
-                "Clarendon Press",
-                "The Clarendon press",
-                "Robert Carter & Brothers",
-                "G. Virtue",
-                "G. Routledge & sons, limited",
-                "ReadHowYouWant.com",
-                "Printed for F. and C. Rivington, T. N. Longman, G. Wilkie, J.Walker, and Lee and Hurst",
-                "Hurst and Co.",
-                "Whittaker",
-                "Oxford University Press",
-                "Printed by Walker and Greig for John Greig",
-                "William Fessenden",
-                "John Long",
-                "Sampson Low, Marston, Low and Searle",
-                "Printed for R. and J. Dodsley and W.Johnston",
-                "Printed for Lane, Newman and Co. at the Minerva Press",
-                "Classics Book Club",
-                "Wordsworth Editions Ltd",
-                "printed for W. Strahan, J. Dodsley, and E. Johnston",
-                "Melville House Publishing",
-                "Classic Publishers",
-                "Printed for F. C. and J. Rivington, W. Lowndes, Scatcherd and Letterman, J. Nunn...",
-                "[Sultaby, Evans & Fox]",
-                "Printed and sold by Thomas Dickman",
-                "Printed by C. Whittingham for F. and C. Rivington, T. N. Longman and O. Rees, G. Wilkie, J. Walker...",
-                "H. Holt and company",
-                "James Pott and Co.",
-                "Barrons Educational Series Inc",
-                "William Tegg",
-                "Elliot Stock",
-                "The Claredon Press",
-                "J. Limbird",
-                "Oxford U.P.",
-                "G. e W. B. Whittaker",
-                "Benjamin C. Buzby",
-                "Barron's Educational",
-                "Cassell & Co.",
-                "D. Appleton",
-                "Philip N. Nicklin & Co.",
-                "Penguin Classics",
-                "S. Backus",
-                "Bennett & Walton",
-                "Greening",
-                "A.L. Burt",
-                "Blackstone Audiobooks",
-                "Garland Pub.",
-                "Nonsuch Publishing",
-                "Printed by J. Belcher",
-                "Routledge",
-                "R. Carter",
-                "Hector M'Lean ...",
-                "Kessinger Publishing, LLC",
-                "Printed for John Sharpe",
-                "printed for Joseph Wenman",
-                "IndyPublish.com",
-                "Broadview Press",
-                "Cassell",
-                "printed for W. Strahan, J. Dodsley, and T. Longman",
-                "François",
-                "by Jones & Company",
-                "Desjonquères",
-                "F. Louis",
-                "Printed under the inspection ofthe Literary Association...",
-                "H. Holt",
-                "printed for W. Strahan, W. Johnston, and J. Dodsley",
-                "Printed for... Oliver D. Cooke",
-                "Longman, Green, Longman , and Roberts",
-                "George Routledge",
-                "A. L. Burt",
-                "Printed for E. and S. Harding by M. Ritchie",
-                "The Folio Society",
-                "Printed by Nuttall, Fisher and Son",
-                "printed for J. F. Schiller; and sold by Varrentrapp Junior and Wenner",
-                "W. Suttaby & B. Crosby & Co",
-                "Folcroft Library Editions",
-                "Printed for Joseph Wenman",
-                "Sherwood, Gilbert and Piper",
-                "Edward Lacey ...",
-                "Printed by W. Baxter for Law & Whittaker, London",
-                "Printed for W. Strahan",
-                "Printed for WilliamCreech",
-                "Printed for E. and S. Harding, by M. Ritchie",
-                "Printed for George Ramsey for J. Thomson and John Murray, London",
-                "Andrus and Judd",
-                "E. P. Dutton",
-                "Printed for Lane and Newman at theMinerva Press",
-                "Willis P. Hazard",
-                "William Durell",
-                "J. M. Dent",
-                "Printed for P. Rusher, and sold by R. Phillips, St. Paul's churchyard, London ; and by all other booksellers",
-                "Printed for W. Strahan, J. Dodsley and T. Longman",
-                "S. Johnson and Son",
-                "Printed forC. Cooke",
-                "Chiswick Press]",
-                "Printed and sold by W. Hilliard",
-                "Ginn & company",
-                "S. Andrus",
-                "Independently Published",
-                "Chez Prault Fils",
-                "printed for G. and A. Ewing, and H. Bradley",
-                "Franklin Classics",
-                "Printed for John Sharpe by C. Whittingham",
-                "printed for F. and C. Rivington, T. N. Longman, G. Wilkie, J. Walker, and Lee and Hurst",
-                "Holt, Rinehart and Winston",
-                "Printedfor T. Johnson, W. Taylor and J. Davies",
-                "Ediciones Universidad de Salamanca",
-                "Printed for R. and J. Dodsley ..., and W. Johnston ...",
-                "T. Bedlington",
-                "Hector McLean",
-                "Penguin",
-                "printed for R. and J. Dodsley; and W. Johnston",
-                "Charles Tilt; J. Menzies, Edinburgh; W. F. Wakeman, Dublin",
-                "Printed for R. and J. Dodsley",
-                "Tuttle Publishing",
-                "Printed for F. C. and J. Rivington, G. Wilkie, Scatcherd and Letterman, Longman, Hurst, Rees, Orme and Brown...",
-                "Baudry [and] Charles Hingray",
-                "Al-Bihar",
-                "Printed and sold by Thomas Dickman.",
-                "Printed for J. F. and C. Rivington,J. Dodsley, T. Longman and G. and T. Wilkie",
-                "George Routledge & Sons",
-                "Geo. Barnes & Co."
-            ],
+            "publisher": "",
             "isbn": "1434670198",
             "id": "OL25655578M",
             "language": "eng",
             "subject": "Ethiopia, fiction, British and irish fiction (fictional works by one author), Princes, Fiction, Happiness, Manners and customs in fiction, Philosophy in fiction, Kings and rulers, Authors, Poetry, Gift books, Correspondence, reminiscences, Specimens, Essays, Biography, Translations into Spanish, English satire and humor, General, Fiction - General, Non-Classifiable, Novelty, Satire, Fiction, historical, general, Fiction, psychological",
             "contributor": "Knight, Ellis Cornelia, 1757-1837., Jenkins, Brian, 1945- ed., Paul, Pilo., Peake, C., Hill, George Birkbeck Norman, 1835-1903,, Knight, Ellis Cornelia, 1757-1837, Fleischauer, Warren, ed., Bronson, Bertrand Harris, 1902-1986, Hardy, J. P. 1933-, Tillotson, Geoffrey, 1905-1969., Bliss, Douglas Percy, 1900-1984 ill., Wagner, Peter Spohn Van, 1818-1906 (autograph), Fouchecour, comte de, Emerson, Oliver Farrar, 1860-1927, ed., Establier Pérez, Helena, emerson, oliver farrar (Editor), Richard, Jessica Anne, 1974-, Voltaire, 1694-1778., West, William, Rev., Keymer, Tom., Chapman, R. W. 1881-1960., Johnson, Samuel, 1709-1784., J. P. Hardy (Editor), Dr. James Macaulay (Introduction), Blagdon, Francis William, 1778-1819, Wagner, Peter Spohn Van, 1818-1906 (bookstamp), Tillotson, Geoffrey, ed., Fernández, Felipe., Bell, Robert, 1732?-1784, printer., Raimbach, Abraham, 1776-1843, illus., Lynne Meloccarro (Editor), Fleischauer, Warren., Hill, George Birkbeck Norman, 1835-1903., Joyes y Blake, Inés, Rusher, Philip., Stephen, Leslie, Sir, 1832-1904, Chesterton, G. K. 1874-1936., Carbonara, Raffaella, ed., Stephen, Leslie, Sir, 1832-1904., Chapman, R. W. 1881-1960, ed., Hill, George Birkbeck Norman, 1835-1903, Hill, George Birkbeck., Jenkins, Brian., Artz Collection (Boston Public Library., Marian S. Carson Collection (Library of Congress), Hardy, J. P. 1933-, ed., Enright, D. J. 1920-, Smirke, Robert, 1752-1845, illus.",
             "rating": 0,
-            "publishing_place": "Great Neck, N.Y"
+            "publishing_house": "Great Neck, N.Y"
         },
         {
             "id": "/works/OL82565W",
@@ -2256,85 +1192,14 @@
             "price": 50,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "Sifre ʻAliyat ha-gag",
-                "Arthur A. Levine Books",
-                "Aṅkura Prakāśanī",
-                "Presença",
-                "Carlsen",
-                "Ren min wen xue chu ban she",
-                "Scholastic Inc.",
-                "Sifre ḥemed",
-                "Lectorum Publications",
-                "Ediciones Salamandra",
-                "French & European Pubns",
-                "Algoritam",
-                "Heyne",
-                "Bloomsbury Publishing Plc",
-                "Naufaul",
-                "Salamandra",
-                "Gallimard",
-                "Media Rodzina",
-                "Edhasa",
-                "Rocco",
-                "Thorndike Press",
-                "Seizansha",
-                "Bloomsbury Childrens",
-                "Crown Publishing Company",
-                "Animus",
-                "Listening Library",
-                "Salamandra Infantil y Juvenil",
-                "Large Print Press",
-                "oxford university",
-                "Arthur A. Levine",
-                "Tandem Library",
-                "Bloomsbury Publishing PLC",
-                "Arthur A. Levine Books: An Imprint of Scholastic Press",
-                "Distributed by Full Circle Pub.",
-                "Bloomsbury",
-                "Harmonie, Uitgeverij De",
-                "Mañjula Pabliśiṅga Hāusa",
-                "Yediʻot aḥaronot",
-                "Scholastic",
-                "Turtleback Books",
-                "jk rowling",
-                "Turtleback Books Distributed by Demco Media",
-                "Bloomsbury (UK) (Canada 2010–present) Arthur A. Levine/ Scholastic (US) Raincoast (Canada 1998–2010)",
-                "Pottermore",
-                "Bloomsbury Children's Books",
-                "BLOOMSBURY",
-                "Letras de bolsillo / Salamandra",
-                "Carlsen Verlag GmbH",
-                "Brand: BLOOMSBURY PUBLISHING PLC",
-                "Scholastic Paperbacks",
-                "Psichogios",
-                "Der Hörverlag",
-                "Егмонт",
-                "Bloomsbury Publishing",
-                "GALLIMARD JEUNE",
-                "Bloomsbury UK",
-                "Bloomsbury Publishing (UK) ",
-                "Perfection Learning",
-                "Rosmėn",
-                "HNP / Bloomsbury",
-                "NXB Trke",
-                "Salani",
-                "Gallimard Jeunesse",
-                "Arthur A. Levine Books / Scholastic",
-                "Distributed in India by Hind Pocket Books",
-                "Raincoast Books",
-                "Huang guan wen hua chu ban you xian gong si",
-                "People's Literature Publishing House",
-                "Rosmen",
-                "Nahdetmisr Publishing"
-            ],
+            "publisher": "",
             "isbn": "9780439785969",
             "id": "OL31917330M",
             "language": "ger",
             "subject": "orphans, foster homes, romans, magie, adolescence, Quill Award winner, Scottish Children’s Book Award winner, British Book of the Year Award winner, Fiction, Juvenile fiction, Magic, Schools, Witches, Wizards, New York Times bestseller, Fantasy fiction, nyt:series_books=2006-07-15, nyt:series_books=2006-09-16, Romans, nouvelles, etc. pour la jeunesse, Sorciers, Roman fantastique, Merveilleux, Hogwarts School of Witchcraft and Wizardry (Imaginary place), Harry Potter (Fictitious character), Hogwarts School of Witchcraft and Wizardry (Imaginary organization), Magos, Magia, Ficción juvenil, Escuelas, Novela fantástica, England, School stories, Family, Harry Potter (Fictional character), Orphans & Foster Homes, Social Themes, Fantasy, Fantasy & Magic, Friendship, Reading Level-Grade 11, Reading Level-Grade 10, Reading Level-Grade 12, England, fiction, Magic, fiction, Schools, fiction, Children's fiction, Potter, harry (fictitious character), fiction, Wizards, fiction, Hogwarts school of witchcraft and wizardry (imaginary organization), fiction, Large type books, Bengali Detective and mystery stories, Hermione Granger (Fictitious character), Ron Weasley (Fictitious character), Good and evil, Fantasiewelt, Phantastische Literatur, Englisch, Magic - Fiction, Fiction, fantasy, general, Warlocks, Potter, Harry (Personnage fictif), Magiciens, Écoles, Poudlard (Organisation imaginaire)",
             "contributor": "Ménard, François., Ma, Aixin., To th, Tama s Boldizsa r., Ilʹin, S., Ma, Ainong., GrandPré, Mary., Fritz, Klaus., Masini, Beatrice., GrandPré, Mary, ill., Fritz, Klaus 1958- U bers, Caudhurī, Asīma, Matsuoka, Yuko., Hương Lan., Bar-Hilel, Gili., Dīkshita, Sudhīra., Dīkshita, Sudhīra, Ḍô., Lakhuti, M., Lý Lan., Ménard, jean François.",
             "rating": 0,
-            "publishing_place": "Poznań, Poland"
+            "publishing_house": "Poznań, Poland"
         },
         {
             "id": "/works/OL76574W",
@@ -2367,7 +1232,7 @@
             "subject": "Fiction, historical, Fiction, thrillers, general, Spy stories, Fiction, History, Fiction, historical, general",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "Feltham"
+            "publishing_house": "Feltham"
         },
         {
             "id": "/works/OL29710157W",
@@ -2393,7 +1258,7 @@
             "subject": "Political science",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": ""
         },
         {
             "id": "/works/OL29653173W",
@@ -2416,7 +1281,7 @@
             "subject": "",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": ""
         },
         {
             "id": "/works/OL24149W",
@@ -2465,7 +1330,7 @@
             "subject": "Classic Literature, Fiction, Fiction, action & adventure, Fiction, historical, general",
             "contributor": "Library of Leonard and Virginia Woolf.",
             "rating": 0,
-            "publishing_place": "Ottawa"
+            "publishing_house": "Ottawa"
         },
         {
             "id": "/works/OL1491031W",
@@ -2508,7 +1373,7 @@
             "subject": "Fiction, Fiction, historical, general, France, fiction, Poverty, Courts and courtiers, Generosity, Country life, History, English fiction, Juvenile fiction, Children's stories, English",
             "contributor": "Dalziel Brothers, Absolon, John, 1815-1895, illustrator, Martineau, Harriet, 1802-1876, Bryant, Sara Cone, 1873- ed.",
             "rating": 0,
-            "publishing_place": "New York [etc.]"
+            "publishing_house": "New York [etc.]"
         },
         {
             "id": "/works/OL1794488W",
@@ -2558,7 +1423,7 @@
             "subject": "Fiction, historical, general, Great britain, fiction, Juvenile fiction, Fiction, History, Culloden, Battle of, Scotland, 1746, Fontenoy, Battle of, Fontenoy, Hainaut, Belgium, 1745, Jacobite Rebellion, 1745-1746, Scotland, fiction, Belgium, fiction, Fontenoy, Battle of, 1745, Culloden, Battle of, 1746, Fiction, war & military, England, fiction, Historical Fiction, English Historical fiction, Male authors, English Adventure stories, Large type books, Pretenders to the throne, Voyages and travels, Adventure stories, Princes, Courage, Diligence, Determination (Personality trait), War stories, Escapes, Soldiers, Loyalty, Kings and rulers",
             "contributor": "Wade, Mrs, Scribner & Welford, Witte, Willie, Wellener, Earle B., Browne, Gordon., Browne, Gordon, 1858-1932, Struller, Herbert, Poe, Edgar Allan, 1809-1849., Witte, William C., Browne, Gordon, 1858-1932, illustrator",
             "rating": 0,
-            "publishing_place": "Chicago"
+            "publishing_house": "Chicago"
         },
         {
             "id": "/works/OL14877874W",
@@ -2620,7 +1485,7 @@
             "subject": "Fairy tales, English Fantasy fiction, Short stories, Children's stories, English, Constancy, Juvenile fiction, Kindness, Statues, Littérature irlandaise, Fairt tales, Generosity, Happiness, Kings and rulers, Swallows, Poverty, Death, Wealth, Children's fiction",
             "contributor": "Shinn, Everett, 1876-1953., Magaril, Mikhail., Brodie, Charles., Claverie, Jean, 1946-, Beckman, Kaj, 1913-, Trovillion, Hal W., 1879-1967., Shinn, Everett, 1876- illus., Ní Ghallchóir, Fidelma, translator., Bancroft-Hunt, Norman., Yeats, W. B. 1865-1939, Shinn, Everett, 1876- ill., Rogers, Bruce, 1870-1957, former owner., Smith, Carol Ann, ill., Isles, Joanna., Trovillion, Violet and Hal W. (autograph), Nichols, Spencer Baird, 1875- illus., Ruzicka, Rudolph, 1883-, Wagman, Meyer., Riswold, Gilbert, illus., Crane, Walter, 1845-1915, illus., Crane, Walter, 1845-1915., Trovillion Private Press,, Bo, Lars, 1924- illus., Ray, Jane, ill., Jacomb Hood, G. P. 1857-1929, illus., Sheepstor Handmade Papers, Ltd.., Francesca Dow (Editor), Jane Ray (Illustrator), Artists' Books Collection (Library of Congress), Isles, Joanna, illustrator., Pforzheimer Bruce Rogers Collection (Library of Congress)",
             "rating": 0,
-            "publishing_place": "Stamford, Conn"
+            "publishing_house": "Stamford, Conn"
         },
         {
             "id": "/works/OL24254W",
@@ -2655,7 +1520,7 @@
             "subject": "Marriage, fiction, Fiction, romance, general",
             "contributor": "Keller, Arthur Ignatius, 1866-1924, ill., A. I. Keller (Illustrator), Dodd, Mead & Company., Arthur I. Keller (Illustrator)",
             "rating": 0,
-            "publishing_place": "Toronto"
+            "publishing_house": "Toronto"
         },
         {
             "id": "/works/OL2443213W",
@@ -2705,7 +1570,7 @@
             "subject": "Artistic Photography, Exhibitions, Islands in art, Photography, Artistic, OUR Brockhaus selection, Bildende Kunst, Drawing & drawings, Individual artists, Watercolours, Individual Artist, Drawing By Individual Artists, Exhibition Catalogs, Art, Art & Art Instruction, Individual Photographer, Art / Individual Artist, Collections, Catalogs, Exhibitions - General, Fine Arts, Wit and humor, pictorial, Artists' books, Price, richard, 1723-1791, Painting, catalogs, Photographs, catalogs, Conceptual art, Photography of women, Influence, Caricatures and cartoons, Wit and humor, Hippies, Pictorial works",
             "contributor": "Shaun Caley Regen (Editor), Rugoff, Ralph, 1957-, Gagosian Gallery (Los Angeles, Calif.), Avini, Andisheh, Sadie Coles (Editor), Avini, Andisheh, 1974-, Nouveau Musée (Villeurbanne, France), Groĭs, Boris., Thom, Ian M., Barbara Gladstone Gallery., Museum für Gegenwartskunst Basel., Beatrix Ruf (Editor), Kamloops Art Gallery., Bürgi, Bernhard., Ruf, Beatrix., Case d'arte (Milan, Italy), Ingvild Goetz (Contributor), Hrsg.: Goetz, Ingvild, Jablonka Galerie., Centre national d'art contemporain de Grenoble., Ueland, Hanne Beate., Kunsthalle Zürich., McWhinnie, John, Ralph Rugoff (Editor), Kunstmuseum Wolfsburg., Astrup Fearnley museet for moderne kunst., Gagosian Gallery, Sadie Coles HQ., Linker, Kate., Kestner-Gesellschaft., Smolik, Noemi., Nouveau Muse e (Villeurbanne,France), Tuyl, Gijs van., Hrsg.: Regen, Shaun Caley, Hrsg.: Mendes, Bernhard, Rian, Jeffrey., Museum für Gegenwartskunst (Basel), Frey, James, 1969-, Dziewior, Yilmaz, Skarstedt Gallery, Rainald Schumacher (Editor), Kvaran, Gunnar B., Haenlein, Carl Albrecht., Glenn Horowitz Bookseller (Firm), Salon 94 (Gallery), Bailey, Jann L. M., Schumacher, Rainald., Wild, Lorraine., Peter Noever (Editor), Galerie Patrick Seguin, Sammlung Goetz.",
             "rating": 0,
-            "publishing_place": "Grenoble, France"
+            "publishing_house": "Grenoble, France"
         },
         {
             "id": "/works/OL2681026W",
@@ -2742,7 +1607,7 @@
             "subject": "Fiction, general",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL6414315W",
@@ -2783,7 +1648,7 @@
             "subject": "Fiction, mystery & detective, general",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "London"
+            "publishing_house": "London"
         },
         {
             "id": "/works/OL207979W",
@@ -2828,7 +1693,7 @@
             "subject": "Fairy tales, Fiction, People with disabilities in fiction, People with disabilities, Legends, Folklore, Robin Hood (Legendary character), Princes, Children's stories, English",
             "contributor": "Mayan, Earl, ill., Polseno, Jo., Thorndike, Edward L. 1874-1949, ed., May Lamberton Becker (Editor), Jon Nielsen (Illustrator), Barry, Etheldred B., Mayan, Earl., Dunlap, Hope, ill., Pyle, Howard, 1853-1911., Craik, Dinah Maria Mulock, 1826-1887., Kirk, Maria Louise, b. 1860, illus.",
             "rating": 0,
-            "publishing_place": "New York, USA"
+            "publishing_house": "New York, USA"
         },
         {
             "id": "/works/OL69633W",
@@ -2868,7 +1733,7 @@
             "subject": "Exiles, Adventure stories, Fiction, Children's fiction, Kings, queens, rulers, etc., fiction, Princes, fiction",
             "contributor": "Wiesgard, Leonard, 1916- illus., Alcazar AudioWorks (Editor), Bower, Maurice L., ill., Maurice L. Bower (Illustrator), B. J. Bedford (Illustrator), David Thorn (Narrator), Hazenplug, Frank., Hazenplug, Frank, 1874-1931., Bower, Maurice L., DAVID THORN: Music: Hans Bisner: 9 Compact Discs: Unabridged: About 10 hours playing time (Reader), Century Company.",
             "rating": 0,
-            "publishing_place": "Moskva"
+            "publishing_house": "Moskva"
         },
         {
             "id": "/works/OL25816914W",
@@ -2902,7 +1767,7 @@
             "subject": "London (england), fiction, Fiction, historical, general, American fiction (fictional works by one author)",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": ""
         },
         {
             "id": "/works/OL2681018W",
@@ -2941,7 +1806,7 @@
             "subject": "OverDrive, Classic Literature, Fiction, Thriller, Accessible book, Fiction, general",
             "contributor": "Rybiczka, K., translator",
             "rating": 0,
-            "publishing_place": "Boston"
+            "publishing_house": "Boston"
         },
         {
             "id": "/works/OL2720814W",
@@ -2978,7 +1843,7 @@
             "subject": "Fugitive slaves, Slavery, Biography, Fugitive slaves, west indies, Slavery, west indies, Women, biography",
             "contributor": "Salih, Sara., Ferguson, Moira., Sara Salih (Editor)",
             "rating": 0,
-            "publishing_place": "Ann Arbor"
+            "publishing_house": "Ann Arbor"
         },
         {
             "id": "/works/OL31710333W",
@@ -3012,7 +1877,7 @@
             "subject": "",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": ""
         },
         {
             "id": "/works/OL14877862W",
@@ -3054,7 +1919,7 @@
             "subject": "Fairy tales, Short stories, Children's stories, English, Classic Literature, Fiction, Children's fiction",
             "contributor": "Robinson, Charles., Wilde, Oscar, 1854-1900., Jacomb Hood, G. P. 1857-1929, ill., Robinson, Charles, ill., Crane, Walter, 1845-1915, ill., Anton Lesser (Narrator)",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL9221272W",
@@ -3086,7 +1951,7 @@
             "subject": "Fairy tales, Fiction, general, Cinderella (Tale), Juvenile fiction, Princes, Humorous stories, Brothers, Children's stories, English, Fairies, Fiction, Wishes, Illustrated children's books, Adaptations, Princes, fiction, Children's fiction, Friendship, fiction",
             "contributor": "Guo, Enhui., My Tang (Translator), Stahel, Monica",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL1337116W",
@@ -3118,7 +1983,7 @@
             "subject": "Fiction, general",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "Rickmansworth"
+            "publishing_house": "Rickmansworth"
         },
         {
             "id": "/works/OL2681017W",
@@ -3153,7 +2018,7 @@
             "subject": "Accessible book, Fiction, political, Science fiction",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "London"
+            "publishing_house": "London"
         },
         {
             "id": "/works/OL1089002W",
@@ -3182,7 +2047,7 @@
             "subject": "Fantasy",
             "contributor": "Gordon Browne (Illustrator), Lawson, Robert, 1892-1957, illus.",
             "rating": 0,
-            "publishing_place": "London"
+            "publishing_house": "London"
         },
         {
             "id": "/works/OL1095945W",
@@ -3210,7 +2075,7 @@
             "subject": "",
             "contributor": "Compte d'Haussonville (Introduction)",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL4913763W",
@@ -3219,7 +2084,7 @@
             "availability_date": "1986",
             "image": "https://covers.openlibrary.org/b/id/4111397-L.jpg",
             "images": [],
-            "price": 75,
+            "price": 750,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -3240,7 +2105,7 @@
             "subject": "Admirals, Biography, History, Princes, Social life and customs, Travel, Voyages and travels",
             "contributor": "Lady Mary Loyd (Translator), Loyd, Mary, Lady, 1853-1936, tr., Meyer, Daniel, 1935-, Meyer, Daniel, 1935- ed., Loyd, Mary, Lady, 1853-1936.",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL1948595W",
@@ -3273,7 +2138,7 @@
             "subject": "Children's stories, English, Children's fiction, Mystery and detective stories, Children's stories, Detective and mystery stories, Five Find-Outers (Fictitious characters), Juvenile fiction",
             "contributor": "Chapple, Jenny.",
             "rating": 0,
-            "publishing_place": "Frogmore, St Albans"
+            "publishing_house": "Frogmore, St Albans"
         },
         {
             "id": "/works/OL6831176W",
@@ -3282,7 +2147,7 @@
             "availability_date": "1971",
             "image": "https://covers.openlibrary.org/b/id/5857660-L.jpg",
             "images": [],
-            "price": 89,
+            "price": 890,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -3307,7 +2172,7 @@
             "subject": "discount and travel, Early works to 1800, Indians of North America, Natural history, discounts et voyages, Sciences naturelles, Indiens, Natural history, canada, Northwest, canadian, discount and travel, Northwest passage, Indians of north america, canada, Hearne, samuel, 1745-1792, Indiens d'Amérique",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "Amsterdam"
+            "publishing_house": "Amsterdam"
         },
         {
             "id": "/works/OL8079598W",
@@ -3340,7 +2205,7 @@
             "subject": "Drama, Poitiers, Battle of, France, 1356",
             "contributor": "Shakespeare, William, 1564-1616.",
             "rating": 0,
-            "publishing_place": "Dublin"
+            "publishing_house": "Dublin"
         },
         {
             "id": "/works/OL115055W",
@@ -3349,7 +2214,7 @@
             "availability_date": "November 3, 2006",
             "image": "https://covers.openlibrary.org/b/id/6991056-L.jpg",
             "images": [],
-            "price": 26,
+            "price": 260,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -3374,7 +2239,7 @@
             "subject": "Classic Literature, Fiction",
             "contributor": "L.C. Page and Company., Colonial Press (Boston, Mass.), Page Company, Sacker, Amy M.",
             "rating": 0,
-            "publishing_place": "[United States]"
+            "publishing_house": "[United States]"
         },
         {
             "id": "/works/OL5683845W",
@@ -3409,7 +2274,7 @@
             "subject": "Fiction, Paranormal Romance, collectionID:FHDarkromance, Vampires, large print, Large type books, Psychic, Dark Carpathians series",
             "contributor": "Guo, Xuanying.",
             "rating": 0,
-            "publishing_place": "London"
+            "publishing_house": "London"
         },
         {
             "id": "/works/OL4789330W",
@@ -3440,7 +2305,7 @@
             "subject": "African Americans, Biography, discount and travel, Slavery, Social life and customs",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "Boston"
+            "publishing_house": "Boston"
         },
         {
             "id": "/works/OL39171W",
@@ -3472,7 +2337,7 @@
             "subject": "Fairy tales, adaptations, Frogs, Princes., Princes in fiction, Princes, Juvenile fiction, Fiction, Children's fiction, Frog Prince (Tale), Litte rature de jeunesse anglaise, Contes de fe es, Ouvrages illustre s., Juvenile literature, Princes, fiction, Frogs, fiction",
             "contributor": "Johnson, Steve, 1960- ill., Johnson, Steve, 1960-, Johnson, Steve, 1960- illustrator, Patrick G. Lawlor (Narrator), Johnson, Steve, 1960-, ill., Steve Johnson (Illustrator)",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL75488W",
@@ -3498,7 +2363,7 @@
             "subject": "Crusades, Fiction, Juvenile fiction, Fiction, historical, general, Crusades, fiction, Fiction, christian, historical, England, fiction",
             "contributor": "Stokes, Adrian, ill.",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL8608893W",
@@ -3525,7 +2390,7 @@
             "subject": "",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "London"
+            "publishing_house": "London"
         },
         {
             "id": "/works/OL24356393W",
@@ -3534,7 +2399,7 @@
             "availability_date": "Oct 11, 2018",
             "image": "https://covers.openlibrary.org/b/id/10882604-L.jpg",
             "images": [],
-            "price": 94,
+            "price": 940,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -3548,7 +2413,7 @@
             "subject": "",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": ""
         },
         {
             "id": "/works/OL2908764W",
@@ -3582,7 +2447,7 @@
             "subject": "Fiction, Brothers and sisters, Social life and customs, Twins, Family life, Fiction, family life, South carolina, fiction, New york (n.y.), fiction, Brothers and sisters, fiction, Large type books, Domestic fiction, Juvenile fiction, Fiction, family life, general, Siblings, fiction",
             "contributor": "Frank Muller (Narrator)",
             "rating": 0,
-            "publishing_place": "New York, NY, USA"
+            "publishing_house": "New York, NY, USA"
         },
         {
             "id": "/works/OL554694W",
@@ -3618,7 +2483,7 @@
             "subject": "Midkemia (Imaginary place), American Fantasy fiction, Fiction, Fantasy, Magic, Good and evil, Fiction, fantasy, general, Merchants, Magicians",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL1326351W",
@@ -3648,7 +2513,7 @@
             "subject": "Biography, History, England, Hundred Years' War, Battle of Crécy, Treaty of Bretigny, Royalty, Murder, Trials (Murder), Authors, Prisoners, Egoism, Fiction, Writer's block, British and irish fiction (fictional works by one author)",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL1804640W",
@@ -3657,7 +2522,7 @@
             "availability_date": "October 2001",
             "image": "https://covers.openlibrary.org/b/id/431498-L.jpg",
             "images": [],
-            "price": 38,
+            "price": 380,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -3680,7 +2545,7 @@
             "subject": "Arthurian romances, Kings and rulers, Adaptations, Fantasy fiction, Fiction, Knights and knighthood, Historical fiction, Britons, Legends, Large type books, Fiction, fantasy, historical, Arthur, king, fiction, Arthurian romances, adaptations, England, fiction, Christian pilgrims and pilgrimages, Fiction, romance, historical, Merlin (legendary character), fiction, Great britain, fiction, Fiction, historical, general, Fiction, fantasy, general, Knights and knighthood, fiction",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL17850410W",
@@ -3707,7 +2572,7 @@
             "subject": "Fairies--Fiction., Sisters--Fiction., Orphans--Fiction., Princes--Fiction., Courts and courtiers--Fiction., Fantasy, Princes, Courts and courtiers, Orphans, Fairies, Fiction, Sisters, Juvenile fiction, Sisters, fiction, Fairies, fiction, Orphans, fiction, Princes, fiction, Courts and courtiers, fiction, Fantasy fiction, Children's fiction, nyt:young-adult-hardcover=2018-01-21, New York Times bestseller, Fiction, romance, paranormal, general, Young Adult Fiction, Romance, Fiction, fantasy, general",
             "contributor": "Kelly, Caitlin, 1984- narrator",
             "rating": 0,
-            "publishing_place": "New York, USA"
+            "publishing_house": "New York, USA"
         },
         {
             "id": "/works/OL21145403W",
@@ -3737,7 +2602,7 @@
             "subject": "Slavery, united states, history, Slaves",
             "contributor": "Asa-Asa, Louis, Pringle, Thomas, 1789-1834",
             "rating": 0,
-            "publishing_place": "Edinburgh"
+            "publishing_house": "Edinburgh"
         },
         {
             "id": "/works/OL554690W",
@@ -3768,7 +2633,7 @@
             "subject": "Fantasy fiction, Fiction, Kidnapping, Brothers, Twins, Midkemia (Imaginary place), Princes, Fiction, fantasy, epic, Twins, fiction, Brothers, fiction, Midkemia (imaginary place), fiction",
             "contributor": "Pernot, Isabelle, 1980- ...",
             "rating": 0,
-            "publishing_place": "Paris"
+            "publishing_house": "Paris"
         },
         {
             "id": "/works/OL2346081W",
@@ -3777,7 +2642,7 @@
             "availability_date": "January 1999",
             "image": "https://covers.openlibrary.org/b/id/5640670-L.jpg",
             "images": [],
-            "price": 30,
+            "price": 300,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -3795,7 +2660,7 @@
             "subject": "Wandering Jew, History, Fiction, Fiction, historical, general, Fiction, religious, India, fiction",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "Toronto"
+            "publishing_house": "Toronto"
         },
         {
             "id": "/works/OL13111040W",
@@ -3820,7 +2685,7 @@
             "subject": "Albert, prince consort of victoria, queen of great britain, 1819-1861",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": ""
         },
         {
             "id": "/works/OL634472W",
@@ -3846,7 +2711,7 @@
             "subject": "",
             "contributor": "Savage-Armstrong, George Francis, 1845-1906, former owner., Browning, Robert, 1812-1889., Clarke, Helen Archibald, d. 1926 ed., Clarke, Helen Archibald, d. 1926., Arnold, William Harris, former owner., Porter, Charlotte Endymion, 1859-1942 ed., Clarke, Helen Archibald, d. 1926 joint ed., Clarke, Helen Archibald, d. 1926, joint ed., Porter, Charlotte Endymion, 1859-1942., Mahoney, John L.. donor., Porter, Charlotte Endymion, 1859-1942",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL1114135W",
@@ -3876,7 +2741,7 @@
             "subject": "Bible, Fiction, History of Biblical events, In literature",
             "contributor": "Ingraham, J. H. 1809-1860.",
             "rating": 0,
-            "publishing_place": "Philadelphia"
+            "publishing_house": "Philadelphia"
         },
         {
             "id": "/works/OL266009W",
@@ -3888,24 +2753,11 @@
             "price": 29,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "Simon Pulse",
-                "Peter Smith Pub Inc",
-                "Collier Books",
-                "Macmillan",
-                "Simon & Schuster/Paula Wiseman Books",
-                "Aladdin",
-                "Hamilton",
-                "Collins Educational",
-                "Puffin Books"
-            ],
             "isbn": "9780844661575",
-            "id": "OL5700262M",
             "language": "eng",
             "subject": "Children's stories, Science fiction, Juvenile fiction, Fiction, science fiction, general, Children's fiction, Princes, fiction",
-            "contributor": "",
             "rating": 0,
-            "publishing_place": "Harmondsworth"
+            "publishing_house": "Vintage"
         },
         {
             "id": "/works/OL5797920W",
@@ -3914,27 +2766,14 @@
             "availability_date": "2006",
             "image": "https://covers.openlibrary.org/b/id/9560753-L.jpg",
             "images": [],
-            "price": 24,
+            "price": 240,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "Silhouette Books",
-                "Silhouette",
-                "Cora Verlag GmbH + Co. KG",
-                "Harlequin",
-                "silhouette",
-                "Wheeler Pub.",
-                "Mira Books",
-                "Silhouette Sensation",
-                "Mira"
-            ],
             "isbn": "9780373482955",
-            "id": "OL9624095M",
             "language": "eng",
             "subject": "Fiction, Americans, Jamaica, fiction, Fiction, romance, general, Fiction, romance, contemporary, Washington (d.c.), fiction, Large type books, ADULT FICTION",
-            "contributor": "",
             "rating": 0,
-            "publishing_place": "Paris"
+            "publishing_house": "Orion"
         },
         {
             "id": "/works/OL9437864W",
@@ -3946,20 +2785,11 @@
             "price": 28,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "Sine nomine",
-                "Franklin Classics Trade Press",
-                "Kessinger Publishing, LLC",
-                "Creative Media Partners, LLC",
-                "[publisher not identified]"
-            ],
             "isbn": "9781432697860",
-            "id": "OL45007085M",
             "language": "eng",
             "subject": "Frontier and pioneer life, Sheep",
-            "contributor": "",
             "rating": 0,
-            "publishing_place": "Santa Barbara, Calif"
+            "publishing_house": "Cornerstone"
         },
         {
             "id": "/works/OL133679W",
@@ -3971,23 +2801,12 @@
             "price": 35,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "Shocken",
-                "T. V. Boardman",
-                "Calmann-Lévy",
-                "Black Rose Books",
-                "Kraus Reprint",
-                "Schocken Books",
-                "Kraus Reprint Co.",
-                "Kraus"
-            ],
             "isbn": "9780805203059",
-            "id": "OL21735814M",
             "language": "eng",
             "subject": "Anarchists, Biography",
             "contributor": "Avakumović, Ivan,, Avakumovic, Ivan, 1926-, Paul Avrich Collection (Library of Congress), Avakumovic, Ivan, joint author., Avakumoviċ, Ivan., Avakumović, Ivan, joint author., Avakumovic, Ivan., Avakumovic , Ivan., Avakumovic, I.",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "Dorling"
         },
         {
             "id": "/works/OL8582566W",
@@ -3996,24 +2815,14 @@
             "availability_date": "April 1, 2007",
             "image": "https://covers.openlibrary.org/b/id/2010135-L.jpg",
             "images": [],
-            "price": 36,
+            "price": 360,
             "quantity": 1,
             "discount": "",
-            "publisher": [
-                "CreateSpace Independent Publishing Platform",
-                "Wyatt North",
-                "Trumpet Press",
-                "Lulu Press, Inc.",
-                "Cosimo Classics",
-                "Createspace Independent Publishing Platform"
-            ],
             "isbn": "1387998218",
-            "id": "OL8905018M",
             "language": "eng",
             "subject": "",
-            "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": "Penguin"
         },
         {
             "id": "/works/OL20216395W",
@@ -4022,7 +2831,7 @@
             "availability_date": "Nov 01, 2016",
             "image": "https://covers.openlibrary.org/b/id/9140589-L.jpg",
             "images": [],
-            "price": 49,
+            "price": 490,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4042,7 +2851,7 @@
             "subject": "Fiction, horror, Fiction, occult & supernatural, Vampires, fiction, Lestat (fictitious character), fiction, nyt:combined-print-and-e-book-fiction=2016-12-18, New York Times bestseller, Fiction, Vampires, Atlantis (Legendary place), Fiction, fantasy, paranormal, Spirit possession, FICTION, Occult & Supernatural, Fantasy, Paranormal, Suspense",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": ""
         },
         {
             "id": "/works/OL16471080W",
@@ -4051,7 +2860,7 @@
             "availability_date": "2012",
             "image": "https://covers.openlibrary.org/b/id/7938320-L.jpg",
             "images": [],
-            "price": 14,
+            "price": 140,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4067,7 +2876,7 @@
             "subject": "Rock musicians, Biography, Musicians, united states, Musicians, biography, Singers, united states, Singers, biography",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL1091852W",
@@ -4076,7 +2885,7 @@
             "availability_date": "1924",
             "image": "https://covers.openlibrary.org/b/id/5588100-L.jpg",
             "images": [],
-            "price": 37,
+            "price": 370,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4093,7 +2902,7 @@
             "subject": "",
             "contributor": "Bergen, Henry., Premierfait, Laurent de, d. 1418., Laurent de Premierfait, d. 1418., Laurent de Premierfait., Bergen, Henry, 1873-, Boccaccio, Giovanni, 1313-1375., Bergen, Henry, 1873-,, Early English Text Society., Laurent de Premierfait, d. 1418, Laurent, de Premierfait, d. 1418.",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL19896499W",
@@ -4102,7 +2911,7 @@
             "availability_date": "2006",
             "image": "https://covers.openlibrary.org/b/id/8709381-L.jpg",
             "images": [],
-            "price": 29,
+            "price": 290,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4118,7 +2927,7 @@
             "subject": "Brothers and sisters, Fiction, Fiction, family life, South carolina, fiction, New york (n.y.), fiction, Brothers and sisters, fiction, Fiction, family life, general",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL20156953W",
@@ -4127,7 +2936,7 @@
             "availability_date": "Nov 13, 2018",
             "image": "https://covers.openlibrary.org/b/id/8802042-L.jpg",
             "images": [],
-            "price": 35,
+            "price": 550,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4139,7 +2948,7 @@
             "subject": "Children's fiction, Humorous stories, Dragons, fiction, Princes, fiction, Fools and jesters, fiction",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
+            "publishing_house": ""
         },
         {
             "id": "/works/OL177791W",
@@ -4148,7 +2957,7 @@
             "availability_date": "July 25, 2006",
             "image": "https://covers.openlibrary.org/b/id/1755701-L.jpg",
             "images": [],
-            "price": 44,
+            "price": 800,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4167,7 +2976,7 @@
             "subject": "Discoveries in geography, Geography, Medieval, Explorers, Biography, History, Medieval Geography",
             "contributor": "Jay I. Kislak Reference Collection (Library of Congress), Evelyn Abbot (Editor)",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL13977W",
@@ -4176,7 +2985,7 @@
             "availability_date": "1991",
             "image": "https://covers.openlibrary.org/b/id/535139-L.jpg",
             "images": [],
-            "price": 34,
+            "price": 700,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4198,7 +3007,7 @@
             "subject": "Parallel Worlds, Amber (Imaginary place), Fiction, Fantasy, Reading Level-Grade 11, Reading Level-Grade 10, Reading Level-Grade 12, Large type books, Amber (imaginary place), fiction, Fiction, science fiction, general, Corwin (fictitious character : zelazny), fiction",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "Boston"
+            "publishing_house": "Boston"
         },
         {
             "id": "/works/OL1796927W",
@@ -4207,7 +3016,7 @@
             "availability_date": "1902",
             "image": "https://covers.openlibrary.org/b/id/6144779-L.jpg",
             "images": [],
-            "price": 35,
+            "price": 350,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4223,7 +3032,7 @@
             "subject": "Roman canadien-anglais, ICMH, Canadian fiction (English), CIHM, Romans, Canadian fiction (English), Fiction",
             "contributor": "Sulivan, Edmund J.",
             "rating": 0,
-            "publishing_place": "Toronto"
+            "publishing_house": "Toronto"
         },
         {
             "id": "/works/OL7114803W",
@@ -4232,7 +3041,7 @@
             "availability_date": "2021",
             "image": "https://covers.openlibrary.org/b/id/5897213-L.jpg",
             "images": [],
-            "price": 36,
+            "price": 200,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4246,7 +3055,7 @@
             "subject": "",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL5204142W",
@@ -4255,7 +3064,7 @@
             "availability_date": "1886",
             "image": "https://covers.openlibrary.org/b/id/5788550-L.jpg",
             "images": [],
-            "price": 28,
+            "price": 190,
             "quantity": 1,
             "discount": "",
             "publisher": [
@@ -4272,7 +3081,7 @@
             "subject": "History, Politics and government",
             "contributor": "",
             "rating": 0,
-            "publishing_place": "New York [etc.]"
+            "publishing_house": "New York [etc.]"
         },
         {
             "id": "/works/OL26954W",
@@ -4303,7 +3112,7 @@
             "subject": "Fiction, Romance, Historical, Marriage, fiction, Nobility,  fiction, Ranchers, fiction, Love stories",
             "contributor": "Harriet Walter (Narrator)",
             "rating": 0,
-            "publishing_place": "[Accord, MA]"
+            "publishing_house": "[Accord, MA]"
         },
         {
             "id": "/works/OL14877854W",
@@ -4334,7 +3143,7 @@
             "subject": "Fairy tales, Short stories, Children's stories, English, Children's fiction, Children's short stories, Fiction",
             "contributor": "Michael MacLiammoir (Introduction), Robinson, Charles, ill., Lars Bo (Illustrator), Bo, Lars.",
             "rating": 0,
-            "publishing_place": "New York"
+            "publishing_house": "New York"
         },
         {
             "id": "/works/OL8811168W",
@@ -4358,35 +3167,7 @@
             "subject": "",
             "contributor": "",
             "rating": 0,
-            "publishing_place": ""
-        },
-        {
-            "id": "/works/OL1341036W",
-            "name": "The sleeping prince",
-            "author": "Terence Rattigan",
-            "availability_date": "1959",
-            "image": "https://covers.openlibrary.org/b/id/12918825-L.jpg",
-            "images": [],
-            "price": 35,
-            "quantity": 1,
-            "discount": "",
-            "publisher": [
-                "Random House",
-                "Hamish Hamilton",
-                "Samuel French Ltd",
-                "French",
-                "Theatre Arts",
-                "Dramatists Play Service",
-                "S.French"
-            ],
-            "isbn": "9780573014215",
-            "id": "OL14426243M",
-            "language": "eng",
-            "subject": "",
-            "contributor": "",
-            "rating": 0,
-            "publishing_place": "London"
+            "publishing_house": ""
         }
-    
     
 ]
