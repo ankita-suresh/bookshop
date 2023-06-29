@@ -38,7 +38,7 @@ function Filters({ filters, setFilters, handleChange, handleReset }) {
       <div className="menu pt-5 container">
         <div className="filter-buttons row ml-3 d-flex">
           <div className="d-flex justify-content-center">
-            <div className="d-flex mt-3 ps-2">
+            {/* <div className="d-flex mt-3 ps-2">
               <span className="input-group-text" id="basic-addon1">
                 <ImSearch />
               </span>
@@ -53,7 +53,7 @@ function Filters({ filters, setFilters, handleChange, handleReset }) {
                 aria-label="Search"
                 aria-describedby="basic-addon1"
               />
-            </div>
+            </div> */}
             <div className="d-flex mt-3 ps-2">
               <label className="input-group-text" htmlFor="sort">
                 <i className="fas fa-sort"></i>Sort by

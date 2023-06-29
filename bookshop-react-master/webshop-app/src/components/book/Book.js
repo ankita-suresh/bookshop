@@ -128,7 +128,8 @@ function Book({
                     <img src={ image} alt="Book cover" />
                 </div>
                 <div className="book-info">
-                    <h4 className="book-name">{name}</h4>
+                {/* {book.title.length > 20 ? `${book.title.substring(0, 20)}...` : book.title}</h3> */}
+                    <h4 className="book-name">{name.length > 18 ? `${name.substring(0,18)}...` : name}</h4>
                     <p className="author">{author}</p>
                     {discount > 0 ? (
                         <h5>

@@ -38,7 +38,7 @@ function StorePage() {
                 });
             } else {
                 let index = filters[name].indexOf(event.target.value);
-                filters[name].splice(index, 1);
+                filters[name].splice(index, 3);
                 setFilters({ ...filters, [name]: filters[name] });
             }
         } else if (name === "stock_yes") {

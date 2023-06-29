@@ -20,11 +20,11 @@ const SearchPage = () => {
     let url = '';
 
     if (filterType === 'author') {
-      url = `https://openlibrary.org/search.json?author=${encodeURIComponent(filterValue)}`;
+      url = `http://openlibrary.org/search.json?author=${encodeURIComponent(filterValue)}`;
     } else if (filterType === 'genre') {
-      url = `https://openlibrary.org/search.json?q=${encodeURIComponent(filterValue)}+subject:${encodeURIComponent(filterValue)}`;
+      url = `http://openlibrary.org/search.json?q=${encodeURIComponent(filterValue)}+subject:${encodeURIComponent(filterValue)}`;
     } else {
-      url = `https://openlibrary.org/search.json?q=${encodeURIComponent(searchQuery)}`;
+      url = `http://openlibrary.org/search.json?q=${encodeURIComponent(searchQuery)}`;
     }
 
     try {
@@ -52,7 +52,7 @@ const SearchPage = () => {
 
   const generateRandomCoverImage = () => {
     const randomCoverID = Math.floor(Math.random() * 1000000);
-    return `https://covers.openlibrary.org/b/id/${randomCoverID}-M.jpg`;
+    return `http://covers.openlibrary.org/b/id/${randomCoverID}-M.jpg`;
   };
 
   const generateRandomPrice = () => {
@@ -72,7 +72,7 @@ const SearchPage = () => {
     const fetchRandomBooks = async () => {
       setIsLoading(true);
 
-      const url = 'https://openlibrary.org/search.json?q=random';
+      const url = 'http://openlibrary.org/search.json?q=random';
 
       try {
         const response = await fetch(url);
@@ -149,7 +149,7 @@ const SearchPage = () => {
                       style={{ width: '100%', height: '16rem' }}
                       src={
                         book.cover_i
-                          ? `https://covers.openlibrary.org/b/id/${book.cover_i}-M.jpg`
+                          ? `http://covers.openlibrary.org/b/id/${book.cover_i}-M.jpg`
                           : generateRandomCoverImage()
                       }
                       alt="Book Cover"
