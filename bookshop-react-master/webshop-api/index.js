@@ -1,9 +1,10 @@
-let createError = require("http-errors");
 let express = require("express");
 let path = require("path");
 let cors = require("cors");
 let logger = require("morgan");
 let cookieParser = require("cookie-parser");
+let createError = require("http-errors");
+
 const port = 3001;
 
 let usersRouter = require("./routes/users");
@@ -29,24 +30,31 @@ app.use("/orders", ordersRouter);
 app.use("/auth", authRouter);
 
 // catch 404 and forward to error handler
-app.use(function (req, res, next) {
-    next(createError(404));
+app.use(function (err, req, res, next) {
+  console.log(err);
+  res.status(err.status || 500);
+  res.json({
+    error: {
+      message: err.message,
+      status: err.status || 500,
+    },
+  });
 });
 
 // error handler
 app.use(function (err, req, res, next) {
-    // set locals, only providing error in development
-    console.log(err);
-    res.locals.message = err.message;
-    res.locals.error = req.app.get("env") === "development" ? err : {};
+  // set locals, only providing error in development
+  console.log(err);
+  res.locals.message = err.message;
+  res.locals.error = req.app.get("env") === "development" ? err : {};
 
-    // render the error page
-    res.status(err.status || 500);
-    //res.render('error');
+  // render the error page
+  res.status(err.status || 500);
+  //res.render('error');
 });
 
 app.listen(port, () => {
-    console.log(`Example app listening at http://localhost:${port}`);
+  console.log(`Example app listening at http://localhost:${port}`);
 });
 
 module.exports = app;

@@ -94,7 +94,7 @@ function DetailsPage() {
                                 <div className="col-sm-6 col-12" id="book-img">
                                     <img
                                         className="book-details-img"
-                                        src={"/images/" + book.image}
+                                        src={book.image}
                                         alt="Book cover"
                                     ></img>
                                 </div>
@@ -109,15 +109,15 @@ function DetailsPage() {
                                                 {book.price}
                                             </span>{" "}
                                             <span id="price">
-                                                {book.price - book.discount}
+                                                {book.price-10}
                                             </span>{" "}
-                                            RON
+                                            RUPEE
                                         </h5>
                                     ) : (
                                         <h5>
                                             Price :{" "}
                                             <span id="price">{book.price}</span>{" "}
-                                            RON
+                                            RUPEE
                                         </h5>
                                     )}
                                     <div id="rating">

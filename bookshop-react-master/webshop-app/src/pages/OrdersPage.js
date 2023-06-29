@@ -27,7 +27,7 @@ function OrdersPage() {
             setCartItemsNumber(counter);
         }
 
-        fetch(`http://localhost:3001/orders/user/${idUser}`)
+        fetch(`https://localhost:3001/orders/user/${idUser}`)
             .then((response) => response.json())
             .then((data) => setOrders(data));
     }, []);

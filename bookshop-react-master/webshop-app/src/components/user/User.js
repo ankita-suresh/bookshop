@@ -21,7 +21,7 @@ function User({
     }
 
     const deleteUser = () => {
-        fetch('http://localhost:3001/users/' + idToDelete, {
+        fetch('https://localhost:3001/users/' + idToDelete, {
             method: 'DELETE',
         }).then(function() {
             getUsers();

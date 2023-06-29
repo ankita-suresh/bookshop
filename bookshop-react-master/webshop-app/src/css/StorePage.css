@@ -129,7 +129,7 @@ label {
 }
 
 .discounted {
-  text-decoration: line-through 2px red;
+  text-decoration: line-through 1.5px black;
 }
 
 .checked {
